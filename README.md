@@ -20,7 +20,7 @@ Data on this page come from the Citywide Immunization Registry (CIR). COVID-19 v
 
 * **Doses Administered**: The number of COVID-19 vaccine doses that have been administered to adults in NYC and reported to the CIR. This includes NYC and non-NYC residents who are eligible for vaccination. The two vaccines that are currently authorized for emergency use in the United States, Pfizer-BioNTech and Moderna, require two doses.
 
-* **Doses on Hand**: The number of COVID-19 vaccine available for NYC facilities and providers to use. This excludes doses reserved for the CDC’s Long-term Care Facility Program and for New York State-run vaccination hubs located in NYC.    
+* **Doses on Hand**: The number of COVID-19 vaccine available for NYC facilities and providers to use. This excludes doses reserved for the CDC’s Long-term Care Facility or Retail Pharmacy Program and for New York State-run vaccination hubs located in NYC.    
 
 * **Adults Vaccinated**: The number of adults ages 18 and over who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This number includes adults vaccinated in NYC who reside outside NYC, such as adults who work in NYC. Race/ethnicity data are further stratified by place of residence (NYC or non-NYC), and by age group (18-64 years or 65+ years). Vaccination status is further broken down into the following two categories: 
 
@@ -30,6 +30,33 @@ Data on this page come from the Citywide Immunization Registry (CIR). COVID-19 v
 * **Vaccination Series**: Currently, Pfizer-BioNtech and Moderna are two-dose series.
 
 * **Race/Ethnicity**: Information on race/ethnicity in the CIR is reported from Electronic Health Records and is not complete . Although CDC requires providers to report demographic information, including race/ethnicity, for COVID-19 vaccinations, these data are not consistently captured in the vaccination record. The Health Department is working with health care providers to improve capture of race/ethnicity information in the CIR, and recent improvements in data completeness have been observed.
+
+* **Proportions**: The percent of NYC residents vaccinated is calculated against the total adult population for a geographic area or demographic category. Population counts are derived from interpolated intercensal population estimates updated in 2020. The NYC Health Department produced these population estimates based on estimates from the U.S. Census Bureau and NYC Department of City Planning.
+
+###### *Population estimates were updated on November 9, 2020, to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates are prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population in the past year.*
+
+## Demographic Characteristics
+More than 90% of the data reported to the CIR come from Health Care Provider Electronic Health Record systems that are not managed by the NYC Health Department. Data are restricted to adults ages 18 and over.
+
+**ZIP Codes and ZCTAs**:
+
+We report information by geography using modified ZIP Code Tabulation Areas (modZCTA). A ZIP code does not refer to a specific area, but rather a collection of addresses that make up a mail delivery route. There are some buildings that have their own ZIP code and some non-residential areas with ZIP codes. 
+
+To account for these ZIP code challenges, the NYC Health Department uses ZCTAs, which solidify ZIP codes into units of area. Often, data reported by ZIP code are mapped by ZCTA. The ZCTA geography was developed by the U.S. Census Bureau.
+
+The modZCTA geography combines census blocks with smaller populations to allow for more stable estimates of population size for rate calculation. Some modZCTAs have more than one ZIP code.
+
+**Age Groups**:
+
+The Health Department routinely reports data for the following age groups: 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 and 75+. People under 16 are not currently eligible for COVID-19 vaccination.
+
+**Race/Ethnicity**: 
+
+Information on race/ethnicity in the CIR is reported from Electronic Health Records and is not complete . Although CDC requires providers to report demographic information, including race/ethnicity, for COVID-19 vaccinations, these data are not consistently captured in the vaccination record. The Health Department is working with health care providers to improve capture of race/ethnicity information in the CIR, and recent improvements in data completeness have been observed.
+
+**Sex, Gender Identity, Sexual Orientation**: 
+
+The CIR currently only captures "sex" categorized as Male, Female, and Unknown. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data input to our CIR come from Health Care Providers’ Electronic Health Record systems which the Health Department does not manage. The Health Department uses State guidance for capturing gender and sexual orientation related data. For the CIR, we do not regulate health care providers or determine what information a provider includes in their Electronic Health Record systems. We are working with health care providers to improve how data on gender identity and sexual orientation are collected.
 
 
 ## Key Technical Notes
@@ -47,7 +74,7 @@ Immunization data are published by date of vaccination and not by date of report
 
 Generally, numbers reported by the NYC Health Department and NYS Department of Health will be close but may not match exactly. Reasons for the discrepancies include:
 
-- Inclusion of different vaccination programs, such as the CDC Long-term Care Facility Program or NYS-run vaccination hubs
+- Inclusion of different vaccination programs, such as the CDC Long-term Care Facility or Retail Pharmacy Program or NYS-run vaccination hubs
 - Different data sources for different metrics
 - Different analytical and informatics processes
 - Different uses of event date or report date (see above)
