@@ -1,10 +1,8 @@
 # COVID-19 Vaccination Data
-This report contains data on COVID-19 vaccinations administered to adults ages 18 in New York City vaccinating facilities. 
-
+This repository contains data on COVID-19 vaccinations administered by New York City (NYC) vaccinating facilities and reported to the Citywide Immunization Registry (CIR). Data on the demographic characteristics of people vaccinated are restricted to adults aged 18 years and older.   
 You can view a visualization of these data on the [Health Department’s COVID-19 Vaccines Data webpage](https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page). 
 
-Data on this page come from the Citywide Immunization Registry (CIR). COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily and include all vaccinations administered and reported up to and including the day before. Data are preliminary and subject to change.
-
+The CIR keeps immunization records for all city residents throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily and include all vaccinations administered and reported up to the previous day. Data are preliminary and subject to change.
 ***
 
 ## This README includes:
@@ -12,28 +10,26 @@ Data on this page come from the Citywide Immunization Registry (CIR). COVID-19 v
 - Key Technical Notes
 
 ***
-
+	
 ## Definitions
 
-
-* **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers in NYC since December 13, 2020. Doses delivered to NYC-run programs are separated into first and second dose shipments, per Federal and State regulations.
-
-* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered to adults in NYC and reported to the CIR. This includes NYC and non-NYC residents who are eligible for vaccination. The two vaccines that are currently authorized for emergency use in the United States, Pfizer-BioNTech and Moderna, require two doses.
-
-* **Doses on Hand**: The number of COVID-19 vaccine available for NYC facilities and providers to use. This excludes doses reserved for the CDC’s Long-term Care Facility or Retail Pharmacy Program and for New York State-run vaccination hubs located in NYC.    
-
-* **Adults Vaccinated**: The number of adults ages 18 and over who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This number includes adults vaccinated in NYC who reside outside NYC, such as adults who work in NYC. Race/ethnicity data are further stratified by place of residence (NYC or non-NYC), and by age group (18-64 years or 65+ years). Vaccination status is further broken down into the following two categories: 
-
+* **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers in NYC since December 13, 2020. Doses delivered to facilities or programs managed by New York State (NYS), Federal Emergency Management Agency (FEMA), and the Center for Disease Control (CDC), including Long-term Care Facility and Retail Pharmacy Programs, are reported separately from doses delivered to New York City health care providers.  
+* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents, and to non-NYC residents who are eligible for vaccination, such as those who work in NYC. Of the vaccines currently authorized for emergency use in the United States, two vaccines (Pfizer-BioNTech and Moderna) require two doses, and one vaccine (Johnson & Johnson/Janssen) requires a single dose. 
+* **Doses on Hand**: The number of COVID-19 vaccine doses available for NYC facilities and providers to use. This excludes doses reserved for the CDC’s Long-term Care Facility Program or Retail Pharmacy Program, and vaccination hubs located in NYC, but managed by NYS or FEMA.  Dose 1 on-hand includes both single dose vaccines and first doses of a two-dose vaccine series. Dose 2 on-hand refers to second dose vaccine available to complete the two-dose vaccine series.
+* **People Vaccinated**: The number of adults ages 18 and over who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This definition is further broken down into the subparts below.
     * **Partially Vaccinated**: The number of adults who have received only the first dose of a two-dose COVID-19 vaccine series. 
-    * **Fully Vaccinated**: The number of adults who have received both doses of a two-dose COVID-19 vaccine series.  
+    * **Fully Vaccinated**: The number of adults who have received either: a.) both doses of a two-dose COVID-19 vaccine series or b.) a dose of a single-dose COVID-19 vaccine. Currently, Pfizer-BioNtech and Moderna are two-dose vaccine series, and Johnson & Johnson’s Janssen COVID-19 vaccine is a single dose vaccine.
+    * **At least one dose**: The number of adults partially or fully vaccinated who have received either: a.) one or two doses of a two-dose COVID-19 vaccine series or b.) a single-dose COVID-19 vaccine.
 
-* **Vaccination Series**: Currently, Pfizer-BioNtech and Moderna are two-dose series.
 
-* **Race/Ethnicity**: Information on race/ethnicity in the CIR is reported from Electronic Health Records and is not complete . Although CDC requires providers to report demographic information, including race/ethnicity, for COVID-19 vaccinations, these data are not consistently captured in the vaccination record. The Health Department is working with health care providers to improve capture of race/ethnicity information in the CIR, and recent improvements in data completeness have been observed.
+**All Adults Vaccinated**: This section includes both NYC and non-NYC residents. Non-NYC residents include adults eligible for vaccination in NYC who reside outside the city, and adults with unknown place of residence. Proportions reflect the percentage of adults belonging to a specific demographic group among those vaccinated. Please refer to the section on NYC Adult Population to best compare vaccination coverage across demographic groups.
 
-* **Proportions**: The percent of NYC residents vaccinated is calculated against the total adult population for a geographic area or demographic category. Population counts are derived from interpolated intercensal population estimates updated in 2020. The NYC Health Department produced these population estimates based on estimates from the U.S. Census Bureau and NYC Department of City Planning.
+**NYC Adult Population and NYC Adults by ZIP**: Data is restricted to NYC residents 18 and older. The percent of NYC residents vaccinated is calculated against the total adult population for a specific geographic area or demographic category. Population counts are derived from interpolated intercensal population estimates updated in 2020. The NYC Health Department produced these population estimates based on estimates from the U.S. Census Bureau and NYC Department of City Planning. Data in these sections can be used to compare vaccination coverage between demographic categories and geographies. 
 
 ###### *Population estimates were updated on November 9, 2020, to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates are prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population in the past year.*
+
+***
+
 
 ## Demographic Characteristics
 More than 90% of the data reported to the CIR come from Health Care Provider Electronic Health Record systems that are not managed by the NYC Health Department. Data are restricted to adults ages 18 and over.
@@ -46,18 +42,18 @@ To account for these ZIP code challenges, the NYC Health Department uses ZCTAs, 
 
 The modZCTA geography combines census blocks with smaller populations to allow for more stable estimates of population size for rate calculation. Some modZCTAs have more than one ZIP code.
 
+
 **Age Groups**:
 
-The Health Department routinely reports data for the following age groups: 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 and 75+. People under 16 are not currently eligible for COVID-19 vaccination.
+The Health Department routinely reports data for the following age groups: 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 and 75-84, 85+. People under 16 are not currently eligible for COVID-19 vaccination.
 
 **Race/Ethnicity**: 
 
-Information on race/ethnicity in the CIR is reported from Electronic Health Records and is not complete . Although CDC requires providers to report demographic information, including race/ethnicity, for COVID-19 vaccinations, these data are not consistently captured in the vaccination record. The Health Department is working with health care providers to improve capture of race/ethnicity information in the CIR, and recent improvements in data completeness have been observed.
+Information on race/ethnicity in the CIR is reported from Electronic Health Records and is not complete. Although CDC requires providers to report demographic information, including race/ethnicity, for COVID-19 vaccinations, these data are not consistently captured in the vaccination record. The Health Department is working with health care providers to improve capture of race/ethnicity information in the CIR, and recent improvements in data completeness have been observed.
 
 **Sex, Gender Identity, Sexual Orientation**: 
 
 The CIR currently only captures "sex" categorized as Male, Female, and Unknown. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data input to our CIR come from Health Care Providers’ Electronic Health Record systems which the Health Department does not manage. The Health Department uses State guidance for capturing gender and sexual orientation related data. For the CIR, we do not regulate health care providers or determine what information a provider includes in their Electronic Health Record systems. We are working with health care providers to improve how data on gender identity and sexual orientation are collected.
-
 
 ## Key Technical Notes
 
@@ -74,7 +70,7 @@ Immunization data are published by date of vaccination and not by date of report
 
 Generally, numbers reported by the NYC Health Department and NYS Department of Health will be close but may not match exactly. Reasons for the discrepancies include:
 
-- Inclusion of different vaccination programs, such as the CDC Long-term Care Facility or Retail Pharmacy Program or NYS-run vaccination hubs
+- Inclusion of different vaccination programs, such as the CDC's Long-term Care Facility Program and Retail Pharmacy Program, or NYS- or FEMA-run vaccination hubs
 - Different data sources for different metrics
 - Different analytical and informatics processes
 - Different uses of event date or report date (see above)
