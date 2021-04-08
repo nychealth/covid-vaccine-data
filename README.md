@@ -14,7 +14,9 @@ The CIR keeps immunization records for all city residents throughout their lives
 ## Definitions
 
 * **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers in NYC since December 13, 2020. Doses delivered to facilities or programs managed by New York State (NYS), Federal Emergency Management Agency (FEMA), and the Center for Disease Control (CDC), including Long-term Care Facility and Retail Pharmacy Programs, are reported separately from doses delivered to New York City health care providers.  
+
 * **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents, and to non-NYC residents who are eligible for vaccination, such as those who work in NYC. Of the vaccines currently authorized for emergency use in the United States, two vaccines (Pfizer-BioNTech and Moderna) require two doses, and one vaccine (Johnson & Johnson/Janssen) requires a single dose. 
+
 * **Doses on Hand**: The number of COVID-19 vaccine doses available for NYC facilities and providers to use. This excludes doses reserved for the CDC's Long-term Care Facility Program or Retail Pharmacy Program, and vaccination hubs located in NYC, but managed by NYS or FEMA. Dose 1 on-hand includes both single dose vaccines and first doses of a two-dose vaccine series. Dose 2 on-hand refers to second dose vaccine available to complete the two-dose vaccine series.
 * **People Vaccinated**: The number of people who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This includes all ages, including those under 18 years old, as people aged 16 and 17 years are currently eligible for COVID-19 vaccination. This definition is further broken down into the subparts below.
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose COVID-19 vaccine series. 
@@ -22,7 +24,7 @@ The CIR keeps immunization records for all city residents throughout their lives
     * **At least one dose**: The number of people partially or fully vaccinated who have received either: a.) one or two doses of a two-dose COVID-19 vaccine series or b.) a single-dose COVID-19 vaccine.
 
 
-**All People Vaccinated**: This section includes both NYC and non-NYC residents. Non-NYC residents include people eligible for vaccination in NYC who reside outside the city, and people with unknown place of residence. Proportions reflect the percentage of people belonging to a specific demographic group among those vaccinated. Please refer to the section on NYC Vaccination Coverage to best compare vaccination coverage across demographic groups.
+**All People Vaccinated**: This section includes both NYC and non-NYC residents. Non-NYC residents include people eligible for vaccination in NYC who reside outside the city, and people with unknown place of residence. Percentages by demographic group are among those vaccinated and do not represent vaccination coverage. Please refer to the sections on NYC Vaccination Coverage and Geography to compare vaccination coverage across demographic groups.
 
 **NYC Vaccination Coverage and Geography**: Data are restricted to NYC residents. The percent of NYC residents vaccinated is calculated against the total population for a specific geographic area or demographic category. Population counts are derived from interpolated intercensal population estimates updated in 2020. The NYC Health Department produced these population estimates based on estimates from the U.S. Census Bureau and NYC Department of City Planning. Data in these sections can be used to compare vaccination coverage between demographic categories and geographies. 
 
