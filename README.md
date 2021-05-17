@@ -18,9 +18,9 @@ The CIR keeps immunization records for all city residents throughout their lives
 * **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents, and to non-NYC residents who are eligible for vaccination, such as those who work in NYC. Of the vaccines currently authorized for emergency use in the United States, two vaccines (Pfizer-BioNTech and Moderna) require two doses, and one vaccine (Johnson & Johnson/Janssen) requires a single dose. 
 
 * **Doses on Hand**: The number of COVID-19 vaccine doses available for NYC facilities and providers to use. This excludes doses reserved for the CDC's Long-term Care Facility Program or Retail Pharmacy Program, and vaccination hubs located in NYC, but managed by NYS or FEMA. Dose 1 on-hand includes both single dose vaccines and first doses of a two-dose vaccine series. Dose 2 on-hand refers to second dose vaccine available to complete the two-dose vaccine series.
-* **People Vaccinated**: The number of people who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This includes all ages, including those under 18 years old, as people aged 16 and 17 years are currently eligible for COVID-19 vaccination. This definition is further broken down into the subparts below.
+* **People Vaccinated**: The number of people who have been vaccinated with COVID-19 vaccine in NYC based on CIR reporting. This includes all ages, including those under 18 years old, as people aged 12 to 15 years are currently eligible for COVID-19 vaccination. This definition is further broken down into the subparts below.
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose COVID-19 vaccine series. 
-    * **Fully Vaccinated**: The number of people who have received either: a.) both doses of a two-dose COVID-19 vaccine series or b.) a dose of a single-dose COVID-19 vaccine. Currently, Pfizer-BioNtech and Moderna are two-dose vaccine series, and Johnson & Johnson's Janssen COVID-19 vaccine is a single dose vaccine. At this time, only the Pfizer-BioNtech vaccine has received FDA approval for use in people aged 16 and 17 years.
+    * **Fully Vaccinated**: The number of people who have received either: a.) both doses of a two-dose COVID-19 vaccine series or b.) a dose of a single-dose COVID-19 vaccine. Currently, Pfizer-BioNtech and Moderna are two-dose vaccine series, and Johnson & Johnson's Janssen COVID-19 vaccine is a single dose vaccine. At this time, only the Pfizer-BioNtech vaccine has received FDA approval for use in people aged 12-15 years old.
     * **At least one dose**: The number of people partially or fully vaccinated who have received either: a.) one or two doses of a two-dose COVID-19 vaccine series or b.) a single-dose COVID-19 vaccine.
 
 
@@ -47,7 +47,7 @@ The modZCTA geography combines census blocks with smaller populations to allow f
 
 **Age Groups**:
 
-Data are reported for the following age groups: <18, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 and 75-84, 85+ years. Among people aged <18 years, only those aged 16 and 17 years are currently eligible for COVID-19 vaccination. People under 16 are not currently eligible for COVID-19 vaccination.
+Data are reported for the following age groups: <18, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74 and 75-84, 85+ years. Among people aged <18 years, only those aged 12 to 15 years are currently eligible for COVID-19 vaccination. 
 
 **Race/Ethnicity**: 
 
