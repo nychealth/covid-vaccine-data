@@ -34,7 +34,7 @@ The CIR keeps immunization records for all city residents throughout their lives
 
 
 ## Demographic Characteristics
-More than 90% of the data reported to the CIR come from Health Care Provider Electronic Health Record systems that are not managed by the NYC Health Department..
+More than 90% of the data reported to the CIR come from Health Care Provider Electronic Health Record systems that are not managed by the NYC Health Department.
 
 **ZIP Codes and ZCTAs**:
 
