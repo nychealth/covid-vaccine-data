@@ -88,7 +88,7 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed.
 
-**Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
+#### Percent of NYC Residents Vaccinated by Demographic Group and Geography: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. 
 
 Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. 
@@ -96,7 +96,6 @@ Please note that the number of people vaccinated may exceed the estimated popula
 Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates were developed prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population as a result of COVID-related migration. The Health Department produced these population estimates using data from the U.S. Census Bureau and incorporating additional data from the NYC Department of City Planning and the Department of Buildings on new housing construction. 
 
 ***
-
 
 ### Demographic Characteristics
 
@@ -112,7 +111,6 @@ We report information by geography using modified ZIP Code Tabulation Areas (MOD
 To deal with the challenges of ZIP Codes, the Health Department uses ZCTAs which solidify ZIP codes into units of area. Often, data reported by ZIP code are mapped by ZCTA. The ZCTA geography was developed by the U.S. Census Bureau. MODZCTA is a geography used to analyze health data. The MODZCTA geography combines census blocks with smaller populations to allow more stable estimates of population size for rate calculation. See [here](https://nychealth.github.io/covid-maps/modzcta-geo/about.html) to identify which MODZCTA a ZIP code is in. 
 
 Please note that the number of people vaccinated in some neighborhoods may exceed the estimated population. The [percentage of people vaccinated](#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) are calculated using intercensal population estimates from 2019, which do not reflect the most recent 2020 Census numbers. Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination.
-
 
 ### Age Groups:
 
