@@ -10,7 +10,7 @@ Data on people vaccinated is broken down into the following categories:
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
-**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using interpolated estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates are prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population as a result of COVID-related migration. See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md) for more information on population estimates.
+**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using interpolated estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates are prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population as a result of COVID-related migration. See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) for more information on population estimates.
 
 
 ## Files
