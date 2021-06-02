@@ -230,7 +230,7 @@ This file is used for display purposes on our COVID-19 vaccine data page and has
 
 ### by-residency-totals
 
-This file is used for display purposes on our website and contains the same information as by-residency-demo.csv. The file shows the total number of residents and non-residents who have received at least one dose of COVID-19 vaccine. 
+This file is used for display purposes on our COVID-19 vaccine data page and contains the same information as by-residency-demo.csv. The file shows the total number of residents and non-residents who have received at least one dose of COVID-19 vaccine. 
 
 |Variable |Definition |Timeframe |
 |---------|-----------|----------|
