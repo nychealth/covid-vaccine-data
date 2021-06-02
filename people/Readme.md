@@ -228,7 +228,7 @@ This file is used for display purposes no our COVID-19 vaccine data page and has
 
 This file is used for display purposes on our COVID-19 vaccine data page and has the same variable definitions as by-residency-demo.csv. Data are restricted to adults 65 years and older. People with unknown race/ethnicity are not shown, but counts are available in by-residency-demo.csv.
 
-### By-residency-totals
+### by-residency-totals
 
 This file is used for display purposes on our website and contains the same information as by-residency-demo.csv. The file shows the total number of residents and non-residents who have received at least one dose of COVID-19 vaccine. 
 
