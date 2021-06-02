@@ -126,7 +126,7 @@ This file has the same variable definitions as coverage-by-demo.csv, but is rest
 
 ### coverage-by-boro-demo.csv
 
-This file contains borough-level information on the number and percentage of NYC residents vaccinated for COVID-19 by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, and other races/ethnicities are not provided. People with unknown race/ethnicity are also excluded. Percentages are calculated against the estimated total population for the specified borough and demographic category.
+This file contains borough-level information on the number and percentage of NYC residents vaccinated for COVID-19 by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, and other races/ethnicities are not provided. People with unknown race/ethnicity are also not shown. Percentages are calculated against the estimated total population for the specified borough and demographic category.
 
 Indicators include:
 
@@ -148,7 +148,7 @@ Note that sum of counts in this file may not match values in citywide tables bec
 
 ### coverage-by-boro-demo-1plus.csv
 
-This file contains borough-level counts and percentages of NYC residents who received at least one dose of COVID-19 vaccine, by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, and other races/ethnicities are not provided. People with unknown race/ethnicity are also excluded. Percentages are calculated against the estimated total population for a specific geographic area or demographic category. 
+This file contains borough-level counts and percentages of NYC residents who received at least one dose of COVID-19 vaccine, by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, and other races/ethnicities are not provided. People with unknown race/ethnicity are also not shown. Percentages are calculated against the estimated total population for a specific geographic area or demographic category. 
 
 Information is the same as in coverage-by-boro-demo.csv, but has a wide format for display purposes on our COVID-19 vaccine data page.
 
@@ -202,32 +202,41 @@ Indicators include:
 
 ### by-residency-demo.csv
 
-This file contains information on the number of NYC residents and eligible non-NYC residents who received at least one dose from a NYC vaccinating facility, stratified by age and race/ethnicity. NYC residents Non-NYC residents eligible for vaccination include individuals who work or study in NYC. Counts of people with unknown place of residence are not provided. Data on people who identify as two or more races, other races/ethnicities, or have unknown race/ethnicity or sex are available as counts. 
+This file contains information on the number of NYC residents and eligible non-NYC residents, stratified by age and race/ethnicity. NYC residents include people who received immunizations in NYC, NYS, or elsewhere and reported to the CIR. Non-residents include people who reside outside the city and received at least one dose from a vaccinating facility located in NYC. Data on people who identify as two or more races, other races/ethnicities, or have unknown race/ethnicity or sex are available as counts. 
 
-Data in this section can be used to describe the demographic characteristic of individuals who were vaccinated in NYC. Please refer to coverage-by-demo and coverage-by-boro-demo to best compare vaccination coverage in NYC across demographic groups.
+Data in this section can be used to describe the demographic characteristic of individuals who were vaccinated in NYC. Please refer to coverage-by-demo and coverage-by-boro-demo to best compare vaccination coverage/rates in NYC across demographic groups.
 
 Indicators include:
 
 |Variable |Definition |Timeframe |
 |---------|-----------|----------|
 |DATE |Date last updated | |
-|RESIDENCY |Place of residence (NYC; outside of NYC)| |
+|RESIDENCY |Place of residence (NYC; outside of NYC;unknown)| |
 |RACE_ETHNICITY |Race/ethnicity group | |
 |AGE_GROUP |Age group in years | |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by residency |Cumulative |
 
 ### by-residency-1plus-allages.csv
 
-This file has the same variable definitions as by-residency-demo.csv, but includes all ages.
+This file is used for display purposes on our COVID-19 vaccine data page and has the same variable definitions as by-residency-demo.csv. Data includes all ages and people with unknown race/ethnicity are not shown, but counts are available in by-residency-demo.csv.
 
 ### by-residency-1plus-18to64.csv
 
-This file has the same variable definitions as by-residency-demo.csv, but is restricted to adults between the ages of 18 and 64 years old.
+This file is used for display purposes no our COVID-19 vaccine data page and has the same variable definitions as by-residency-demo.csv. Data are restricted to adults between the ages of 18 and 64 years old. People with unknown race/ethnicity are not shown, but counts are available in by-residency-demo.csv.
 
 ### by-residency-1plus-65plus.csv
 
-This file has the same variable definitions as by-residency-demo.csv, but is restricted to adults 65 years and older.
+This file is used for display purposes on our COVID-19 vaccine data page and has the same variable definitions as by-residency-demo.csv. Data are restricted to adults 65 years and older. People with unknown race/ethnicity are not shown, but counts are available in by-residency-demo.csv.
 
+### By-residency-totals
 
+This file is used for display purposes on our website and contains the same information as by-residency-demo.csv. The file shows the total number of residents and non-residents who have received at least one dose of COVID-19 vaccine. 
+
+|Variable |Definition |Timeframe |
+|---------|-----------|----------|
+|DATE |Date last updated | |
+|RESIDENCY |Place of residence (NYC; outside of NYC; unknown)| |
+|COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by residency |Cumulative |
+|PERC_1PLUS_CUMULATIVE |Percentage of the total number of people vaccinated with at least 1 dose |Cumulative |
 
 
