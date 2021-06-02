@@ -175,7 +175,7 @@ Indicators include:
 
 ### coverage-by-boro-demo-fully.csv
 
-This file contains borough-level numbers on the count and percentage of NYC residents who are fully vaccinated by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, or other races/ethnicities are not provided. People with unknown race/ethnicity are excluded. Percentages are calculated against the total population for a specific geographic area or demographic category. 
+This file contains borough-level numbers on the count and percentage of NYC residents who are fully vaccinated by age and race/ethnicity. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, or other races/ethnicities are not provided. People with unknown race/ethnicity are also nont shown. Percentages are calculated against the total population for a specific geographic area or demographic category. 
  
 Information is the same as in coverage-by-boro-demo.csv, but has a wide format for display purposes on our COVID-19 vaccine data page.
 
