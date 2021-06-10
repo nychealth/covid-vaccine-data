@@ -127,7 +127,7 @@ The Health Department is committed to ensuring that access to the vaccine is fai
 
 ### Sex, Gender Identity, Sexual Orientation: 
 
-The CIR currently only captures "sex" categorized as Male, Female, and Unknown. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data in the CIR come from health care providers’ EHR systems, which capture a limited number of fields. The Health Department uses NYS guidance for capturing sexual orientation and gender identity related data (SOGI). For CIR reporting, we do not regulate health care providers or determine what information a provider includes in their EHR systems. Read more [here](#demographic-characteristics) about SOGI data collection.
+The CIR currently only captures "sex" categorized as Male, Female, Other, Unknown and Prefer not to answer. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data in the CIR come from health care providers’ EHR systems, which capture a limited number of fields. The Health Department uses NYS guidance for capturing sexual orientation and gender identity related data (SOGI). For CIR reporting, we do not regulate health care providers or determine what information a provider includes in their EHR systems. Read more [here](#demographic-characteristics) about SOGI data collection.
 
 ***
 
