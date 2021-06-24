@@ -1,82 +1,82 @@
 "DATE","RESIDENCY","RACE_ETHNICITY","AGE_GROUP","COUNT_1PLUS_CUMULATIVE"
-"2021-06-22","NON-NYC","Asian","All ages",84418
-"2021-06-22","NON-NYC","Black","All ages",53699
-"2021-06-22","NON-NYC","Hispanic/Latino","All ages",87656
-"2021-06-22","NON-NYC","Native American/Alaska Native","All ages",1625
-"2021-06-22","NON-NYC","Other","All ages",79797
-"2021-06-22","NON-NYC","Native Hawaiian/Pacific Islander","All ages",908
-"2021-06-22","NON-NYC","Multiracial","All ages",421
-"2021-06-22","NON-NYC","Unknown","All ages",91333
-"2021-06-22","NON-NYC","White","All ages",344849
-"2021-06-22","NON-NYC","Asian","65+",12283
-"2021-06-22","NON-NYC","Black","65+",9428
-"2021-06-22","NON-NYC","Hispanic/Latino","65+",10242
-"2021-06-22","NON-NYC","Native American/Alaska Native","65+",371
-"2021-06-22","NON-NYC","Other","65+",22845
-"2021-06-22","NON-NYC","Native Hawaiian/Pacific Islander","65+",133
-"2021-06-22","NON-NYC","Multiracial","65+",67
-"2021-06-22","NON-NYC","Unknown","65+",16618
-"2021-06-22","NON-NYC","White","65+",96010
-"2021-06-22","NON-NYC","Asian","18-64",69849
-"2021-06-22","NON-NYC","Black","18-64",43225
-"2021-06-22","NON-NYC","Hispanic/Latino","18-64",74788
-"2021-06-22","NON-NYC","Native American/Alaska Native","18-64",1217
-"2021-06-22","NON-NYC","Other","18-64",55660
-"2021-06-22","NON-NYC","Native Hawaiian/Pacific Islander","18-64",753
-"2021-06-22","NON-NYC","Multiracial","18-64",352
-"2021-06-22","NON-NYC","Unknown","18-64",71756
-"2021-06-22","NON-NYC","White","18-64",243543
-"2021-06-22","NYC","Asian","All ages",859562
-"2021-06-22","NYC","Black","All ages",564328
-"2021-06-22","NYC","Hispanic/Latino","All ages",990819
-"2021-06-22","NYC","Native American/Alaska Native","All ages",12425
-"2021-06-22","NYC","Other","All ages",417841
-"2021-06-22","NYC","Native Hawaiian/Pacific Islander","All ages",6432
-"2021-06-22","NYC","Multiracial","All ages",3314
-"2021-06-22","NYC","Unknown","All ages",479139
-"2021-06-22","NYC","White","All ages",1235192
-"2021-06-22","NYC","Asian","65+",140508
-"2021-06-22","NYC","Black","65+",146888
-"2021-06-22","NYC","Hispanic/Latino","65+",165615
-"2021-06-22","NYC","Native American/Alaska Native","65+",2465
-"2021-06-22","NYC","Other","65+",95208
-"2021-06-22","NYC","Native Hawaiian/Pacific Islander","65+",1090
-"2021-06-22","NYC","Multiracial","65+",574
-"2021-06-22","NYC","Unknown","65+",88514
-"2021-06-22","NYC","White","65+",304257
-"2021-06-22","NYC","Asian","18-64",678603
-"2021-06-22","NYC","Black","18-64",400670
-"2021-06-22","NYC","Hispanic/Latino","18-64",782742
-"2021-06-22","NYC","Native American/Alaska Native","18-64",9021
-"2021-06-22","NYC","Other","18-64",306398
-"2021-06-22","NYC","Native Hawaiian/Pacific Islander","18-64",5031
-"2021-06-22","NYC","Multiracial","18-64",2696
-"2021-06-22","NYC","Unknown","18-64",363808
-"2021-06-22","NYC","White","18-64",898270
-"2021-06-22","UNKNOWN","Asian","All ages",3315
-"2021-06-22","UNKNOWN","Black","All ages",1555
-"2021-06-22","UNKNOWN","Hispanic/Latino","All ages",2180
-"2021-06-22","UNKNOWN","Native American/Alaska Native","All ages",31
-"2021-06-22","UNKNOWN","Other","All ages",2877
-"2021-06-22","UNKNOWN","Native Hawaiian/Pacific Islander","All ages",31
-"2021-06-22","UNKNOWN","Multiracial","All ages",1
-"2021-06-22","UNKNOWN","Unknown","All ages",2758
-"2021-06-22","UNKNOWN","White","All ages",8168
-"2021-06-22","UNKNOWN","Asian","65+",1043
-"2021-06-22","UNKNOWN","Black","65+",335
-"2021-06-22","UNKNOWN","Hispanic/Latino","65+",551
-"2021-06-22","UNKNOWN","Native American/Alaska Native","65+",7
-"2021-06-22","UNKNOWN","Other","65+",832
-"2021-06-22","UNKNOWN","Native Hawaiian/Pacific Islander","65+",5
-"2021-06-22","UNKNOWN","Multiracial","65+",0
-"2021-06-22","UNKNOWN","Unknown","65+",486
-"2021-06-22","UNKNOWN","White","65+",2774
-"2021-06-22","UNKNOWN","Asian","18-64",2271
-"2021-06-22","UNKNOWN","Black","18-64",1212
-"2021-06-22","UNKNOWN","Hispanic/Latino","18-64",1613
-"2021-06-22","UNKNOWN","Native American/Alaska Native","18-64",24
-"2021-06-22","UNKNOWN","Other","18-64",2028
-"2021-06-22","UNKNOWN","Native Hawaiian/Pacific Islander","18-64",26
-"2021-06-22","UNKNOWN","Multiracial","18-64",1
-"2021-06-22","UNKNOWN","Unknown","18-64",2248
-"2021-06-22","UNKNOWN","White","18-64",5390
+"2021-06-23","NON-NYC","Asian","All ages",84561
+"2021-06-23","NON-NYC","Black","All ages",53840
+"2021-06-23","NON-NYC","Hispanic/Latino","All ages",88000
+"2021-06-23","NON-NYC","Native American/Alaska Native","All ages",1623
+"2021-06-23","NON-NYC","Other","All ages",79926
+"2021-06-23","NON-NYC","Native Hawaiian/Pacific Islander","All ages",909
+"2021-06-23","NON-NYC","Multiracial","All ages",420
+"2021-06-23","NON-NYC","Unknown","All ages",91431
+"2021-06-23","NON-NYC","White","All ages",345364
+"2021-06-23","NON-NYC","Asian","65+",12288
+"2021-06-23","NON-NYC","Black","65+",9442
+"2021-06-23","NON-NYC","Hispanic/Latino","65+",10263
+"2021-06-23","NON-NYC","Native American/Alaska Native","65+",368
+"2021-06-23","NON-NYC","Other","65+",22865
+"2021-06-23","NON-NYC","Native Hawaiian/Pacific Islander","65+",132
+"2021-06-23","NON-NYC","Multiracial","65+",66
+"2021-06-23","NON-NYC","Unknown","65+",16624
+"2021-06-23","NON-NYC","White","65+",96146
+"2021-06-23","NON-NYC","Asian","18-64",69958
+"2021-06-23","NON-NYC","Black","18-64",43346
+"2021-06-23","NON-NYC","Hispanic/Latino","18-64",75063
+"2021-06-23","NON-NYC","Native American/Alaska Native","18-64",1219
+"2021-06-23","NON-NYC","Other","18-64",55763
+"2021-06-23","NON-NYC","Native Hawaiian/Pacific Islander","18-64",755
+"2021-06-23","NON-NYC","Multiracial","18-64",352
+"2021-06-23","NON-NYC","Unknown","18-64",71847
+"2021-06-23","NON-NYC","White","18-64",243879
+"2021-06-23","NYC","Asian","All ages",861915
+"2021-06-23","NYC","Black","All ages",566491
+"2021-06-23","NYC","Hispanic/Latino","All ages",996492
+"2021-06-23","NYC","Native American/Alaska Native","All ages",12471
+"2021-06-23","NYC","Other","All ages",419025
+"2021-06-23","NYC","Native Hawaiian/Pacific Islander","All ages",6459
+"2021-06-23","NYC","Multiracial","All ages",3320
+"2021-06-23","NYC","Unknown","All ages",478684
+"2021-06-23","NYC","White","All ages",1237391
+"2021-06-23","NYC","Asian","65+",140657
+"2021-06-23","NYC","Black","65+",147183
+"2021-06-23","NYC","Hispanic/Latino","65+",165990
+"2021-06-23","NYC","Native American/Alaska Native","65+",2468
+"2021-06-23","NYC","Other","65+",95316
+"2021-06-23","NYC","Native Hawaiian/Pacific Islander","65+",1092
+"2021-06-23","NYC","Multiracial","65+",572
+"2021-06-23","NYC","Unknown","65+",88547
+"2021-06-23","NYC","White","65+",304557
+"2021-06-23","NYC","Asian","18-64",680062
+"2021-06-23","NYC","Black","18-64",402240
+"2021-06-23","NYC","Hispanic/Latino","18-64",786921
+"2021-06-23","NYC","Native American/Alaska Native","18-64",9050
+"2021-06-23","NYC","Other","18-64",307310
+"2021-06-23","NYC","Native Hawaiian/Pacific Islander","18-64",5055
+"2021-06-23","NYC","Multiracial","18-64",2704
+"2021-06-23","NYC","Unknown","18-64",363973
+"2021-06-23","NYC","White","18-64",899768
+"2021-06-23","UNKNOWN","Asian","All ages",3314
+"2021-06-23","UNKNOWN","Black","All ages",1557
+"2021-06-23","UNKNOWN","Hispanic/Latino","All ages",2182
+"2021-06-23","UNKNOWN","Native American/Alaska Native","All ages",31
+"2021-06-23","UNKNOWN","Other","All ages",2875
+"2021-06-23","UNKNOWN","Native Hawaiian/Pacific Islander","All ages",31
+"2021-06-23","UNKNOWN","Multiracial","All ages",1
+"2021-06-23","UNKNOWN","Unknown","All ages",2761
+"2021-06-23","UNKNOWN","White","All ages",8162
+"2021-06-23","UNKNOWN","Asian","65+",1043
+"2021-06-23","UNKNOWN","Black","65+",335
+"2021-06-23","UNKNOWN","Hispanic/Latino","65+",551
+"2021-06-23","UNKNOWN","Native American/Alaska Native","65+",7
+"2021-06-23","UNKNOWN","Other","65+",831
+"2021-06-23","UNKNOWN","Native Hawaiian/Pacific Islander","65+",5
+"2021-06-23","UNKNOWN","Multiracial","65+",0
+"2021-06-23","UNKNOWN","Unknown","65+",485
+"2021-06-23","UNKNOWN","White","65+",2774
+"2021-06-23","UNKNOWN","Asian","18-64",2270
+"2021-06-23","UNKNOWN","Black","18-64",1213
+"2021-06-23","UNKNOWN","Hispanic/Latino","18-64",1616
+"2021-06-23","UNKNOWN","Native American/Alaska Native","18-64",24
+"2021-06-23","UNKNOWN","Other","18-64",2027
+"2021-06-23","UNKNOWN","Native Hawaiian/Pacific Islander","18-64",26
+"2021-06-23","UNKNOWN","Multiracial","18-64",1
+"2021-06-23","UNKNOWN","Unknown","18-64",2252
+"2021-06-23","UNKNOWN","White","18-64",5384
