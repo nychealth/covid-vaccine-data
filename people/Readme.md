@@ -1,5 +1,5 @@
 #  people/
-This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS or elsewhere and reported to the CIR by NYC providers or the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/). 
+This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS or elsewhere and reported to the CIR by NYC providers or the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) and New Jersey Immunization Information System (NJIIS). 
 
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
@@ -202,7 +202,7 @@ Indicators include:
 
 ### by-residency-demo.csv
 
-This file contains information on the number of NYC residents and eligible non-NYC residents, stratified by age and race/ethnicity. NYC residents include people who received immunizations in NYC, NYS, or elsewhere and reported to the CIR. Non-residents include people who reside outside the city and received at least one dose from a vaccinating facility located in NYC. Data on people who identify as two or more races, other races/ethnicities, or have unknown race/ethnicity or sex are available as counts. 
+This file contains information on the number of NYC residents and eligible non-NYC residents, stratified by age and race/ethnicity. NYC residents include people who received immunizations in NYC, NYS, NJ or elsewhere and reported to the CIR. Non-residents include people who reside outside the city and received at least one dose from a vaccinating facility located in NYC. Data on people who identify as two or more races, other races/ethnicities, or have unknown race/ethnicity or sex are available as counts. 
 
 Data in this section can be used to describe the demographic characteristic of individuals who were vaccinated in NYC. Please refer to coverage-by-demo and coverage-by-boro-demo to best compare vaccination coverage/rates in NYC across demographic groups.
 
