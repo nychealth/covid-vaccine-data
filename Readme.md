@@ -140,6 +140,6 @@ This folder contains data on COVID-19 vaccines that were administered by vaccina
 
 ### people/ 
 
-This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS or elsewhere and reported to the CIR by NYC providers or the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/). Files that begin with ‘by-residency’ also include data on the number of eligible non-NYC residents vaccinated at a NYC vaccinating facility.
+This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS or elsewhere and reported to the CIR by NYC providers or the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) and New Jersey Immunization Information System (NJIIS). Files that begin with ‘by-residency’ also include data on the number of eligible non-NYC residents vaccinated at a NYC vaccinating facility.
 
 
