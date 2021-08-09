@@ -3,8 +3,8 @@ This repository contains data on COVID-19 vaccinations administered by New York 
 
 You can view a visualization of these data on the NYC Health Department's [COVID-19 Vaccines Data webpage](https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page). 
 
-The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. 
-Data are preliminary and subject to change. 
+The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
+ 
 
 ***
 
@@ -20,8 +20,9 @@ Data are preliminary and subject to change.
 
 ### Citywide Immunization Registry and Reporting:
 
-Since 1996, the CIR has been used as a database of patient immunization records submitted by NYC health care providers. It is accessible to authorized health care providers, schools, individuals and agencies concerned with public health to help ensure that NYC residents receive all recommended immunizations. NYC health care providers report immunizations to the CIR as required by New York State (NYS) Public Health Law and the NYC Health Code. Pediatric providers are required to report all immunizations administered to children 0-18 years, but prior to the COVID-19 immunization campaign, the reporting of adult immunizations required consent. The consent requirement was suspended by the [Governor’s executive order](https://www.governor.ny.gov/news/no-20282-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency) and the [Health Commissioner's order (PDF)](https://www1.nyc.gov/assets/doh/downloads/pdf/covid/covid-19-vaccine-reporting-order.pdf) on December 14, 2020. The orders require providers to report COVID-19, flu, and all other vaccinations administered to adults to the CIR. Immunization data are submitted to the CIR through [electronic health record systems](https://www1.nyc.gov/site/doh/providers/reporting-and-services/cir-how-to-report.page#electronic) or through the [CIR’s Online Registry](https://www1.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page). 
+Since 1996, the CIR has been used as a database of patient immunization records submitted by NYC health care providers. It is accessible to authorized health care providers, schools, individuals and agencies concerned with public health to help ensure that NYC residents receive all recommended immunizations. NYC health care providers report immunizations to the CIR as mandated by New York State (NYS) Public Health Law and the NYC Health Code. Pediatric providers are required to report all immunizations administered to children 0-18 years. Reporting adult immunizations requires consent. However, from December 14, 2020 to June 26, 2021, the consent requirement was suspended by the [Governor’s executive order](https://www.governor.ny.gov/news/no-20282-continuing-temporary-suspension-and-modification-laws-relating-disaster-emergency) and the [Health Commissioner's order (PDF)](https://www1.nyc.gov/assets/doh/downloads/pdf/covid/covid-19-vaccine-reporting-order.pdf). These orders required providers to report COVID-19, flu and all other vaccinations administered to adults to the CIR. 
 
+Currently, reporting adult immunizations requires patient consent. Immunization data are submitted to the CIR through electronic health record systems or through the [CIR’s Online Registry](https://www1.nyc.gov/site/doh/providers/reporting-and-services/citywide-immunization-registry-cir.page). 
 
 ### Reporting Timing: 
 
@@ -73,14 +74,14 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 * **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers since December 14, 2020, including hospitals, community health centers, clinics, mass vaccination hubs and pharmacies.
 
-* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and to eligible non-NYC residents, including those who work or study in NYC.    
+* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and to non-NYC residents, including those who work or study in NYC.    
 
 * **Doses Number**: Dose information is reported by date of vaccination. Of the vaccines currently authorized for emergency use in the United States, two vaccines (Pfizer-BioNTech and Moderna) require two doses, and one vaccine (Johnson & Johnson/Janssen) requires a single dose. 
 	* **Dose 1 of 2**: First dose administered of a two-dose vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose vaccine (Johnson & Johnson/Janssen)
 
-* **People Vaccinated**: The number of people who have been vaccinated for COVID-19 in NYC is based on data reported to the CIR. These data include NYC and eligible non-NYC residents vaccinated in NYC, as well as NYC residents who were vaccinated outside NYC but reported to the CIR by an NYC provider or by the NYS Immunization Information System (NYSIIS). Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
+* **People Vaccinated**: The number of people who have been vaccinated for COVID-19 is based on data reported to the CIR. These data include NYC residents vaccinated at a NYC facility, as well as those who were vaccinated outside of NYC and reported to the CIR by an NYC provider, the NYS Immunization Information System (NYSIIS), or the New Jersey Immunization Information System (NJIIS). Information on the number of non-NYC residents vaccinated at NYC facilities can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
     * **Fully Vaccinated**: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
@@ -88,7 +89,7 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed.
 
-#### Percent of NYC Residents Vaccinated by Demographic Group and Geography: 
+**Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. 
 
 Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. 
@@ -96,6 +97,7 @@ Please note that the number of people vaccinated may exceed the estimated popula
 Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates were developed prior to the COVID-19 outbreak, and therefore, do not represent any changes to NYC’s population as a result of COVID-related migration. The Health Department produced these population estimates using data from the U.S. Census Bureau and incorporating additional data from the NYC Department of City Planning and the Department of Buildings on new housing construction. 
 
 ***
+
 
 ### Demographic Characteristics
 
@@ -112,9 +114,10 @@ To deal with the challenges of ZIP Codes, the Health Department uses ZCTAs which
 
 Please note that the number of people vaccinated in some neighborhoods may exceed the estimated population. The [percentage of people vaccinated](#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) are calculated using intercensal population estimates from 2019, which do not reflect the most recent 2020 Census numbers. Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination.
 
+
 ### Age Groups:
 
-Data are reported for the following age groups: <18, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people aged <18 years, only those aged 12 to 17 years are currently eligible for COVID-19 vaccination. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
+Data are reported for the following age groups per U.S. Census age categories: 10-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 12 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
 
 
 ### Race/Ethnicity: 
@@ -127,7 +130,7 @@ The Health Department is committed to ensuring that access to the vaccine is fai
 
 ### Sex, Gender Identity, Sexual Orientation: 
 
-The CIR currently only captures "sex" categorized as Male, Female, Other, Unknown and Prefer not to answer. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data in the CIR come from health care providers’ EHR systems, which capture a limited number of fields. The Health Department uses NYS guidance for capturing sexual orientation and gender identity related data (SOGI). For CIR reporting, we do not regulate health care providers or determine what information a provider includes in their EHR systems. Read more [here](#demographic-characteristics) about SOGI data collection.
+The CIR currently only captures "sex" categorized as Male, Female, Other, Prefer not to answer and Unknown. The data do not currently capture gender identity or sexual orientation of adults vaccinated. Most of the data in the CIR come from health care providers’ EHR systems, which capture a limited number of fields. The Health Department uses NYS guidance for capturing sexual orientation and gender identity related data (SOGI). For CIR reporting, we do not regulate health care providers or determine what information a provider includes in their EHR systems. Read more [here](#demographic-characteristics) about SOGI data collection.
 
 ***
 
@@ -140,6 +143,4 @@ This folder contains data on COVID-19 vaccines that were administered by vaccina
 
 ### people/ 
 
-This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS or elsewhere and reported to the CIR by NYC providers or the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) and New Jersey Immunization Information System (NJIIS). Files that begin with ‘by-residency’ also include data on the number of eligible non-NYC residents vaccinated at a NYC vaccinating facility.
-
-
+This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/), or New Jersey Immunization Information System (NJIIS). Files that begin with ‘by-residency’ also include data on the number of non-NYC residents vaccinated at a NYC facility.
