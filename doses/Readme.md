@@ -5,7 +5,7 @@ This folder contains data on COVID-19 vaccines that were administered by vaccina
 
 ### summary-doses.csv
 
-This file contains information on the total number of vaccines delivered, and administered in NYC. Data on doses administered is reported separately for each dose of a two-dose vaccine series or single-dose vaccine. As of 5/13/2021, delivery information for Modern/Pfizer vaccine by dose number is no longer tracked separately and only the total number of doses delivered is reported.
+This file contains information on the total number of vaccines delivered, and administered in NYC. Data on doses administered is reported separately for each dose of a two-dose vaccine series or single-dose vaccine. As of 5/13/2021, delivery information for Moderna/Pfizer vaccine by dose number is no longer tracked separately and only the total number of doses delivered is reported.
 
 Indicators include:
 
