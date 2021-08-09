@@ -5,7 +5,7 @@ This folder contains data on COVID-19 vaccines that were administered by vaccina
 
 ### summary-doses.csv
 
-This file contains information on the total number of vaccines delivered, and administered in NYC. Data on doses administered is reported separately for each dose of a two-dose vaccine series or single-dose vaccine. As of 5/13/2021, delivery information for Modern/Pfizer vaccine by dose number is no longer tracked separately and only the total number of doses delivered is reported. 
+This file contains information on the total number of vaccines delivered, and administered in NYC. Data on doses administered is reported separately for each dose of a two-dose vaccine series or single-dose vaccine. As of 5/13/2021, delivery information for Modern/Pfizer vaccine by dose number is no longer tracked separately and only the total number of doses delivered is reported.
 
 Indicators include:
 
@@ -42,7 +42,7 @@ Indicators include:
 
 ### doses-by-residency.csv
 
-This file contains information on the number and percentage of COVID-19 doses administered to NYC and eligible non-NYC residents, including those who work or study in NYC. People with unknown place of residence are also included in this file. Residency status is based on the address or ZIP code that the vaccine recipient reported.
+This file contains information on the number and percentage of COVID-19 doses administered to NYC and non-NYC residents at NYC vaccinating facilities. People with unknown place of residence are also included in this file. Residency status (NYC or non-NYC) is based on the address or ZIP code that the vaccine recipient reported.
 
 Indicators include:
 
@@ -56,6 +56,20 @@ Indicators include:
 |ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
 |PERC_ADMIN_DOSE1 |Percent of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) by place of residence |Cumulative|
 |PERC_ADMIN_DOSE2 |Percent of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) by place of residence |Cumulative|
-|PERC_ADMIN_SINGLE |Percent of single-dose COVID-19 vaccine administered by place of residence|Cumulative|
+|PERC_ADMIN_SINGLE |Percent of single-doses COVID-19 vaccine administered by place of residence|Cumulative|
 |PERC_ADMIN_ALLDOSES |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence|Cumulative |
+
+
+### doses-by-residency-age.csv
+
+This file contains information on the number and percentage of COVID-19 doses administered to NYC and non-NYC residents by age (under 18 and over 18). People with unknown place of residence are also included in this file. Residency status (NYC or non-NYC) is based on the address or ZIP code that the vaccine recipient reported.
+
+|Variable Name |Definition |Timeframe|
+|--------------|-----------|----------|
+|DATE |Date ||
+|RESIDENCY |Residency status (NYC; outside of NYC; unknown) | |
+|ADMIN_ALLDOSES_CUMULATIVE_Under18 |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE_18plus |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE_Allages |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence. This is the same as ADMIN_ALLDOSES_CUMULATIVE in the doses-by-residency.csv file |Cumulative |
+|PERC_ADMIN_ALLDOSES_Allages |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence. This is the same as PERC_ADMIN_ALLDOSES in the doses-by-residency.csv file |Cumulative |
 
