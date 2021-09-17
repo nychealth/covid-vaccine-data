@@ -67,7 +67,7 @@ Timeline of eligibility:
 
 ### Vaccines Available:
 
-Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech (Pfizer), Moderna and Johnson & Johnson/Janssen (Johnson & Johnson). People who are 12 to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more here about COVID-19 vaccines. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
+Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech (Pfizer), Moderna and Johnson & Johnson/Janssen (Johnson & Johnson). People who are 12 to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
 
 
 ## Definitions
@@ -84,10 +84,10 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 * **People Vaccinated**: The number of people who have been vaccinated for COVID-19 is based on data reported to the CIR. These data include NYC residents vaccinated at a NYC facility, as well as those who were vaccinated outside of NYC and reported to the CIR by an NYC provider, the NYS Immunization Information System (NYSIIS), or the New Jersey Immunization Information System (NJIIS). Information on the number of non-NYC residents vaccinated at NYC facilities can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
-    * **Fully Vaccinated**: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
-    * **At least one dose**: The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
+    * **Fully Vaccinated**: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech, Moderna or AstraZeneca), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
+    * **At least one dose**: The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
 
-The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed.
+The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
 **Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. 
@@ -126,7 +126,7 @@ Although CDC requires providers to report demographic information, including rac
 
 The Health Department classifies the proportion of people vaccinated by race/ethnicity into the following mutually exclusive categories: Asian/Native Hawaiian or other Pacific Islander (NHPI), Black/African-American, Hispanic/Latino, Native American/Alaska Native, and White. The Hispanic/Latino category includes people of any race, and all other categories exclude those who identify as Hispanic/Latino. Disaggregated information on vaccinations among people identified as Native Hawaiian or other Pacific Islander, other races/ethnicities, and multi-racial are provided only as counts due to small numbers and population estimates for these groups. Please see people/coverage_by_demo.csv and people/by_demo_residency.csv for those counts. 
 
-The Health Department is committed to ensuring that access to the vaccine is fair and equitable and reaches communities hardest hit by COVID-19.  COVID-19 has disproportionately impacted communities of color due to long-term institutional and personal biases against people of color. Lasting racism and an inequitable distribution of resources needed for wellness cause these health inequities. Key drivers include quality jobs, housing, health care and food, among others. The Health Department is closely monitoring disparities in neighborhood vaccination rates and by race/ethnicity to inform community outreach efforts and address gaps in vaccine access.
+The Health Department is committed to ensuring that access to the vaccine is fair and equitable and reaches communities hardest hit by COVID-19. COVID-19 has disproportionately impacted communities of color due to long-term institutional and personal biases against people of color. Lasting racism and an inequitable distribution of resources needed for wellness cause these health inequities. Key drivers include quality jobs, housing, health care and food, among others. The Health Department is closely monitoring disparities in neighborhood vaccination rates and by race/ethnicity to inform community outreach efforts and address gaps in vaccine access.
 
 ### Sex, Gender Identity, Sexual Orientation: 
 
