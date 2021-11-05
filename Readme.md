@@ -46,7 +46,7 @@ Generally, numbers reported by the NYC Health Department and NYS Department of H
 
 ### Vaccine Eligibility:
 
-As of May 13, 2021, all U.S. residents 12 years of age and older are eligible to be vaccinated in NYC. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccine eligibility. 
+As of November 3 2021, all U.S. residents 5 years of age and older are eligible to be vaccinated in NYC. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccine eligibility. 
 
 Vaccine eligibility has expanded in phases as outlined by CDC and NYS, starting in Phase 1a with health care personnel and long-term care facility residents. In Phase 1b, COVID-19 vaccine was offered to persons aged ≥75 years and non-health care frontline essential workers, and in Phase 1c, to persons aged 65–74 years, persons aged 16–64 years with high-risk medical conditions, and essential workers not included in Phase 1b. Both the characteristics of people vaccinated (e.g., age, occupation) and the number of vaccinations administered shift over time, reflecting the populations that were eligible to be vaccinated and the supply of vaccine available.
 
@@ -63,6 +63,8 @@ Timeline of eligibility:
 |3/30/2021 | - People 30 years or older | 
 |4/6/2021 | - People 16 years or older | 
 |5/12/2021 | - People 12 years or older | 
+|11/3/2021 | - People 5 years or older | 
+
 
 
 ### Vaccines Available:
