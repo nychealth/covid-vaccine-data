@@ -119,7 +119,7 @@ Please note that the number of people vaccinated in some neighborhoods may excee
 
 ### Age Groups:
 
-Data are reported for the following age groups per U.S. Census age categories: 10-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 12 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
+Data are reported for the following age groups per U.S. Census age categories: 10-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
 
 
 ### Race/Ethnicity: 
