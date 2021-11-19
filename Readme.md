@@ -69,7 +69,7 @@ Timeline of eligibility:
 
 ### Vaccines Available:
 
-Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech (Pfizer), Moderna and Johnson & Johnson/Janssen (Johnson & Johnson). People who are 12 to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
+Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech (Pfizer), Moderna and Johnson & Johnson/Janssen (Johnson & Johnson). People who are 5 to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
 
 
 ## Definitions
