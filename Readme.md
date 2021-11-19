@@ -2,10 +2,9 @@
 This repository contains data on COVID-19 vaccinations administered by New York City (NYC) vaccinating facilities and reported to the Citywide Immunization Registry (CIR).
 You can view a visualization of these data on the NYC Health Department's [COVID-19 Vaccines Data webpage](https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page). 
 
-We are working to add data on vaccinations among 5-11 year olds and additional doses.
-
 The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
  
+Note: We are working to add data on vaccinations among 5-11 year olds and third dose/boosters.
 
 ***
 
