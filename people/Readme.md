@@ -1,7 +1,6 @@
 #  people/
 This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) or the New Jersey Immunization Information System (NJIIS). 
 
-Note: We are working to add data on vaccinations among children 5 to 11 years old and third dose/boosters.
 
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
@@ -12,10 +11,10 @@ Data on people vaccinated is broken down into the following categories:
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
-**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates do not represent the 2020 Census or recent changes to NYC’s population as a result of in-migration or out-migration. Additional factors contributing to these inconsistencies may be that people who identify as Multi-race are misreported under a single race, and self-reported ZIP code at the time of vaccination does not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination. 
+**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates do not represent the 2020 Census or recent changes to NYC’s population as a result of in-migration or out-migration. Additional factors contributing to these inconsistencies may be that people who identify as Multi-race are misreported under a single race, and self-reported ZIP code at the time of vaccination does not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination
 See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) for more information on population estimates.
 
-**Age groups**: Data are reported for the following age groups per U.S. Census age categories: 10-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years.  
+**Age groups**: Data are reported for the following age groups per U.S. Census age categories: 5-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination.
 
 See [/technical notes](https://github.com/nychealth/covid-vaccine-data#demographic-characteristics) for more information on how CIR demographic information is collected. 
 
@@ -29,20 +28,20 @@ Indicators include:
 
 |Variable |Definition |Timeframe |
 |---------|-----------|----------|
-|AGE_GROUP |Age in years (All ages; 18 years and older; 65 years and older) | |
+|AGE_GROUP |Age in years (All ages; ages 5 to 17; 18 years and older; 65 years and older) | |
 |PERC_PARTIALLY |Estimated percentage of the NYC population partially vaccinated by age group |Cumulative |
 |PERC_FULLY |Estimated percentage of the total NYC population fully vaccinated by age group |Cumulative |
 |PERC_NOVAX |Estimated percentage of the total NYC population who have not been vaccinated for COVID-19 |Cumulative |
 
 ### coverage-summary-donut2.csv
 
-This file contains information on the estimated percentage of NYC residents who have received at least one dose of COVID-19 vaccine by age group. Percentages are based on estimates of the total NYC population, population aged 18 years and older, and population aged 65 and older.
+This file contains information on the estimated percentage of NYC residents who have received at least one dose of COVID-19 vaccine by age group. Percentages are based on estimates of the total NYC population, population aged 5 to 17, population aged 18 years and older, and population aged 65 and older.
 
 Indicators include: 
 
 |Variable |Definition |Timeframe |
 |---------|-----------|----------|
-|AGE_GROUP |Age in years (All ages; 18 years and older; 65 years and older) | |
+|AGE_GROUP |Age in years (All ages; ages 5 to 17; 18 years and older; 65 years and older) | |
 |PERC_1PLUS |Estimated percentage of the NYC population with at least one dose of COVID-19 vaccine |Cumulative |
 |PERC_NOVAX |Estimated percentage of the NYC population who have not been vaccinated for COVID-19 |Cumulative |
 
@@ -60,6 +59,10 @@ Indicators include:
 |COUNT_1PLUS_CUMULATIVE |Number of people who received at least one dose of COVID-19 vaccine by borough |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by borough |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who received at least 1 dose by borough |Cumulative |
+
+### coverage-summary-children.csv
+
+This file has the same variable definitions as coverage-summary-allages.csv, but is restricted to vaccine eligible NYC children 5 to 17.
 
 ### coverage-summary-adults.csv
 
@@ -100,7 +103,7 @@ Note that sum of counts in this file may not match values in citywide tables bec
 
 ### coverage-by-modzcta-adults.csv
 
-This file has the same variable definitions as coverage-by-modzcta-allages.csv, but is restricted to NYC residents aged 18 years and older.
+This file has the same variable definitions as coverage-by-modzcta-allages.csv, but is restricted to NYC residents 18 years and older.
 
 ### coverage-by-demo.csv
 
@@ -111,7 +114,7 @@ Indicators include:
 |Variable |Definition |Timeframe |
 |---------|-----------|----------|
 |DATE |Date last updated | |
-|POPULATION |Indicates the age group for the population denominator, either all ages or adults aged 18 years or older | |
+|POPULATION |Indicates the age group for the population denominator, either all ages, adults 18 years or older, or children 5 to 17| |
 |GROUP |Used for display purposes only | |
 |SUBGROUP |Indicates the age group in years, race/ethnicity, sex, or borough of residence | |
 |POP_DENOMINATOR |Population denominators derived from intercensal estimates as of 2019. Please see the technical notes for a description. | |
@@ -122,13 +125,19 @@ Indicators include:
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by indicated subgroup |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
 
+
 ### coverage-by-demo-allages.csv 
 
 This file has the same variable definitions as coverage-by-demo.csv. The population denominator includes NYC residents of all ages. Data on people reported with two or more races, other races/ethnicities and unknown race/ethnicity or sex are not shown. Counts for these groups are available in coverage-by-demo.csv.
 
+### coverage-by-demo-children.csv 
+
+This file has the same variable definitions as coverage-by-demo.csv, but is restricted to NYC children aged 5 to 17. Data on people reported with two or more races, other races/ethnicities and unknown race/ethnicity or sex are not shown. Counts for these groups are available in coverage-by-demo.csv.
+
 ### coverage-by-demo-adults.csv 
 
 This file has the same variable definitions as coverage-by-demo.csv, but is restricted to NYC adults 18 years and older. Data on people reported with two or more races, other races/ethnicities and unknown race/ethnicity or sex are not shown. Counts for these groups are available in coverage-by-demo.csv.
+
 
 ### coverage-by-boro-demo.csv
 
@@ -157,6 +166,7 @@ The sum of counts in this file may not match total borough or citywide values be
 ### coverage-by-boro-demo-1plus.csv
 
 This file contains borough-level counts and percentages of NYC residents who received at least one dose of COVID-19 vaccine, by age and race/ethnicity. Information is the same as in coverage-by-boro-demo.csv, but has a wide format for display purposes on our COVID-19 vaccine data page. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, and other races/ethnicities are not provided. People with unknown race/ethnicity are also not shown. Percentages are calculated against the estimated total population for a specific geographic area or demographic category. 
+
 
 Note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) for more information on population estimates.
 
@@ -214,7 +224,7 @@ The sum of counts in this file may not match total borough or citywide values be
 
 ### coverage-by-boro-age.csv
 
-This file contains borough-level information on the number and estimated percentage of NYC residents vaccinated for COVID-19 by age group. Percentages are calculated against the total population for a specific geographic area and demographic category. Among people under 18 years old, only those aged 12 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution.
+This file contains borough-level information on the number and estimated percentage of NYC residents vaccinated for COVID-19 by age group. Percentages are calculated against the total population for a specific geographic area and demographic category. Among people under 18 years old, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. 
 
 Indicators include:
 
@@ -284,7 +294,7 @@ Indicators include:
 
 ### by-residency-1plus-under18.csv
 
-This file is used for display purposes on our COVID-19 vaccine data page and has the same variable definitions as by-residency-1plus-allages.csv. Data are restricted to children under 18. Note that only those aged 12 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution. 
+This file is used for display purposes on our COVID-19 vaccine data page and has the same variable definitions as by-residency-1plus-allages.csv. Data are restricted to children under 18. Note that only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. 
 
 People with unknown race/ethnicity or place of residence are not shown, but counts are available in by-residency-demo.csv. 
 
@@ -309,5 +319,6 @@ Indicators include:
 |COUNT_1PLUS_CUMULATIVE_Under18 | Number of people under 18 who have received at least one dose of COVID-19 vaccine by place of residence |Cumulative |
 |COUNT_1PLUS_CUMULATIVE_18plus | Number of people over 18 who have received at least one dose of COVID-19 vaccine by place of residence |Cumulative |
 |COUNT_1PLUS_CUMULATIVE_Allages | Number of people who have received at least one dose of COVID-19 vaccine by place of residence |Cumulative |
-|PERC_1PLUS_CUMULATIVE_Allages | Percentage of the total number of people vaccinated with at least 1 dose by place of residence |Cumulative |
+|PERC_1PLUS_CUMULATIVE_Allages | Percentage of the total number of people vaccinated with at least 1 dose by place of residence |Cumulative ||
+
 
