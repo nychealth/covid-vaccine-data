@@ -1,10 +1,10 @@
 # COVID-19 Vaccination Reporting
 This repository contains data on COVID-19 vaccinations administered by New York City (NYC) vaccinating facilities and reported to the Citywide Immunization Registry (CIR).
+
 You can view a visualization of these data on the NYC Health Department's [COVID-19 Vaccines Data webpage](https://www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page). 
 
 The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
  
-Note: We are working to add data on vaccinations among children 5 to 11 years old and third dose/boosters.
 
 ***
 
@@ -119,7 +119,7 @@ Please note that the number of people vaccinated in some neighborhoods may excee
 
 ### Age Groups:
 
-Data are reported for the following age groups per U.S. Census age categories: 10-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. Interpret vaccination coverage for age groups that include people younger than 12 with caution. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
+Data are reported for the following age groups per U.S. Census age categories: 5-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
 
 
 ### Race/Ethnicity: 
