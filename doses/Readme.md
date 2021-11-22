@@ -1,9 +1,6 @@
 # doses/
 This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and eligible non-NYC residents, including individuals who work or study in NYC.
 
-Note: We are working to add data on vaccinations among children 5 to 11 years old and third dose/boosters.
-
-
 ## Files
 
 ### summary-doses.csv
