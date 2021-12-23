@@ -64,6 +64,9 @@ Timeline of eligibility:
 |4/6/2021 | - People 16 years or older | 
 |5/12/2021 | - People 12 years or older | 
 |11/3/2021 | - People 5 years or older | 
+|11/29/2021 | - Boosters authorized for people 18 years or older  | 
+|12/9/2021 | - Boosters authorized for people 16 years or older  | 
+
 
 
 
@@ -76,18 +79,23 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 * **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers since December 14, 2020, including hospitals, community health centers, clinics, mass vaccination hubs and pharmacies.
 
-* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and to non-NYC residents, including those who work or study in NYC.    
+* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and to non-NYC residents.
 
-* **Doses Number**: Dose information is reported by date of vaccination. Of the vaccines currently authorized for emergency use in the United States, two vaccines (Pfizer-BioNTech and Moderna) require two doses, and one vaccine (Johnson & Johnson/Janssen) requires a single dose. 
-	* **Dose 1 of 2**: First dose administered of a two-dose vaccine series (Pfizer-BioNTech and Moderna)
-	* **Dose 2 of 2**: Second dose administered of a two-dose vaccine series (Pfizer-BioNTech and Moderna)
-	* **Single dose**: The dose administered of a single-dose vaccine (Johnson & Johnson/Janssen)
+* **Doses Number**: Dose information is reported by date of vaccination. Doses information is broken-out by the two-dose Pfizer or Moderna primary vaccine series, the one dose Johnson & Johnson/Janssen primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson.
+	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
+	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
+	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses available for fully vaccinated people 16 and older, as well as third doses available for fully vaccinated people who have a weakened immune system.
 
 * **People Vaccinated**: The number of people who have been vaccinated for COVID-19 is based on data reported to the CIR. These data include NYC residents vaccinated at a NYC facility, as well as those who were vaccinated outside of NYC and reported to the CIR by an NYC provider, the NYS Immunization Information System (NYSIIS), or the New Jersey Immunization Information System (NJIIS). Information on the number of non-NYC residents vaccinated at NYC facilities can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
     * **Fully Vaccinated**: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech, Moderna or AstraZeneca), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
     * **At least one dose**: The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
+    *  **Additional dose**: The number of people fully vaccinated who have received at least one additional dose of any FDA-approved COVID-19 vaccine, including:
+o   Booster shot: Available for fully vaccinated people 16 and older.
+o   Third dose: Available only for fully vaccinated people who have a weakened immune system.
+
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
