@@ -92,9 +92,7 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
     * **Fully Vaccinated**: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech, Moderna or AstraZeneca), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
     * **At least one dose**: The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
-    *  **Additional dose**: The number of people fully vaccinated who have received at least one additional dose of any FDA-approved COVID-19 vaccine, including:
-o   Booster shot: Available for fully vaccinated people 16 and older.
-o   Third dose: Available only for fully vaccinated people who have a weakened immune system.
+    *  **Additional dose**: The number of people fully vaccinated who have received at least one additional dose of any FDA-approved COVID-19 vaccine, including: booster doses available for fully vaccinated people 16 and older, as well as third doses available for fully vaccinated people who have a weakened immune system.
 
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
