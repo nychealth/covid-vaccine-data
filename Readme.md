@@ -79,9 +79,9 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 * **Doses Delivered**: The number of COVID-19 vaccine doses that have been delivered to immunizing providers since December 14, 2020, including hospitals, community health centers, clinics, mass vaccination hubs and pharmacies.
 
-* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and to non-NYC residents.
+* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.
 
-* **Doses Number**: Dose information is reported by date of vaccination. Doses information is broken-out by the two-dose Pfizer or Moderna primary vaccine series, the one dose Johnson & Johnson/Janssen primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson.
+* **Doses Number**: Dose information is reported by date of vaccination. Data is broken-out by the two-dose Pfizer or Moderna primary vaccine series, the one dose Johnson & Johnson/Janssen primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson.
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
