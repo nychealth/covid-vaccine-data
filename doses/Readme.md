@@ -1,25 +1,38 @@
 # doses/
-This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and eligible non-NYC residents, including individuals who work or study in NYC.
+This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
+
+As of 12/23/2021, additional dose data is now available. 
+
+## Definitions
+
+* **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.
+
+* **Doses Number**: Dose information is reported by date of vaccination. Data is broken-out by the two-dose Pfizer or Moderna primary vaccine series, the one dose Johnson & Johnson/Janssen primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson/Janssen.
+	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
+	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
+	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses available for fully vaccinated people 16 and older, as well as third doses available for fully vaccinated people who have a weakened immune system.
 
 ## Files
 
 ### summary-doses.csv
 
-This file contains information on the total number of vaccines delivered, and administered in NYC. Data on doses administered is reported separately for each dose of a two-dose vaccine series or single-dose vaccine. As of 5/13/2021, delivery information for Moderna/Pfizer vaccine by dose number is no longer tracked separately and only the total number of doses delivered is reported.
+This file contains information on the total number of vaccines delivered, and administered in NYC. 
 
 Indicators include:
 
 |Variable Name |Definition |Timeframe|
 |--------------|-----------|----------|
 |DATE |Date | |
-|DOSE1_CUMULATIVE |Cumulative number of first doses delivered or administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) |Cumulative |
-|DOSE2_CUMULATIVE |Cumulative number of second doses delivered or administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) |Cumulative |
-|SINGLE_CUMULATIVE |Cumulative number of doses delivered or administered of a single-dose COVID-19 vaccine (Single dose) |Cumulative |
-|ALLDOSES_CUMULATIVE |Cumulative number of COVID-19 vaccine doses delivered or administered (Dose 1 of 2; Dose 2 of 2; Single dose) |Cumulative |
+|DOSE1_CUMULATIVE |Cumulative number of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) |Cumulative |
+|DOSE2_CUMULATIVE |Cumulative number of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) |Cumulative |
+|SINGLE_CUMULATIVE |Cumulative number of doses administered of a single-dose COVID-19 vaccine (Single dose) |Cumulative |
+|ADDITIONAL_CUMULATIVE |Cumulative number of additional doses administered |Cumulative |
+|ALLDOSES_CUMULATIVE |Cumulative number of COVID-19 vaccine doses delivered or administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) |Cumulative |
 
 ### doses-by-day.csv
 
-This file contains information on the daily and cumulative numbers of COVID-19 vaccine doses administered by vaccinating facilities in NYC. Data are reported separately for each dose of a two-dose vaccine series or single-dose vaccine. 
+This file contains information on the daily and cumulative numbers of COVID-19 vaccine doses administered by vaccinating facilities in NYC. 
 
 These data represent doses and should not be used to calculate the number of individuals who are vaccinated. Data on people vaccinated can be found in the [/people folder](https://github.com/nychealth/draft-data-pages/blob/9a7d696ed5ba5a367376b93f6fc332dc477ae7b7/Vaccine%20data/people/Readme.md).
 
@@ -34,9 +47,11 @@ Indicators include:
 |ADMIN_DOSE2_CUMULATIVE |Cumulative number of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) |Cumulative |
 |ADMIN_SINGLE_DAILY |Daily number of single-dose COVID-19 vaccine administered |Daily by date of vaccination |
 |ADMIN_SINGLE_CUMULATIVE |Cumulative number of single-dose COVID-19 vaccine administered |Cumulative |
-|ADMIN_ALLDOSES_DAILY |Daily number of all COVID-19 vaccine doses administered (Sum of Dose 1 of 2; Dose 2 of 2; Single dose) |Daily, by date of vaccination |
-|ADMIN_ALLDOSES_7DAYAVG |7-day moving average of all COVID-19 vaccine doses administered  (Sum of Dose 1 of 2; Dose 2 of 2; Single dose) |Current day and previous 6 days |
-|ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Sum of Dose 1 of 2; Dose 2 of 2; Single dose) |Cumulative |
+|ADMIN_ADDITIONAL_DAILY |Cumulative number of additional doses of COVID-19 vaccine administered |Cumulative |
+|ADMIN_ADDITIIONAL_CUMULATIVE |Cumulative number of additional doses of COVID-19 vaccine administered |Cumulative |
+|ADMIN_ALLDOSES_DAILY |Daily number of all COVID-19 vaccine doses administered (Sum of Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) |Daily, by date of vaccination |
+|ADMIN_ALLDOSES_7DAYAVG |7-day moving average of all COVID-19 vaccine doses administered  (Sum of Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) |Current day and previous 6 days |
+|ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Sum of Dose 1 of 2; Dose 2 of 2; Single dose; Additonal dose) |Cumulative |
 |INCOMPLETE | Used for display purposes only|
 
 
@@ -53,11 +68,13 @@ Indicators include:
 |ADMIN_DOSE1_CUMULATIVE |Cumulative number of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) by place of residence |Cumulative |
 |ADMIN_DOSE2_CUMULATIVE |Cumulative number of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) by place of residence |Cumulative |
 |ADMIN_SINGLE_CUMULATIVE |Cumulative number of single-dose COVID-19 vaccine administered by place of residence |Cumulative |
-|ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
+|ADMIN_ADDITIONAL_CUMULATIVE |Cumulative number of additional COVID-19 vaccine doses administered by place of residence |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence |Cumulative |
 |PERC_ADMIN_DOSE1 |Percent of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) by place of residence |Cumulative|
 |PERC_ADMIN_DOSE2 |Percent of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) by place of residence |Cumulative|
 |PERC_ADMIN_SINGLE |Percent of single-doses COVID-19 vaccine administered by place of residence|Cumulative|
-|PERC_ADMIN_ALLDOSES |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence|Cumulative |
+|PERC_ADMIN_ADDITIONAL |Percent of additional COVID-19 vaccine doses administered by place of residence |Cumulative |
+|PERC_ADMIN_ALLDOSES |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence|Cumulative |
 
 
 ### doses-by-residency-age.csv
@@ -68,8 +85,8 @@ This file contains information on the number and percentage of COVID-19 doses ad
 |--------------|-----------|----------|
 |DATE |Date ||
 |RESIDENCY |Residency status (NYC; outside of NYC; unknown) | |
-|ADMIN_ALLDOSES_CUMULATIVE_Under18 |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
-|ADMIN_ALLDOSES_CUMULATIVE_18plus |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence |Cumulative |
-|ADMIN_ALLDOSES_CUMULATIVE_Allages |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence. This is the same as ADMIN_ALLDOSES_CUMULATIVE in the doses-by-residency.csv file |Cumulative |
-|PERC_ADMIN_ALLDOSES_Allages |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose) by place of residence. This is the same as PERC_ADMIN_ALLDOSES in the doses-by-residency.csv file |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE_Under18 |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE_18plus |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence |Cumulative |
+|ADMIN_ALLDOSES_CUMULATIVE_Allages |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose;  Additional dose) by place of residence. This is the same as ADMIN_ALLDOSES_CUMULATIVE in the doses-by-residency.csv file |Cumulative |
+|PERC_ADMIN_ALLDOSES_Allages |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence. This is the same as PERC_ADMIN_ALLDOSES in the doses-by-residency.csv file |Cumulative |
 
