@@ -5,7 +5,7 @@ You can view a visualization of these data on the NYC Health Department's [COVID
 
 The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
  
-As of 12/23/2021, data on additional doses administered are now available. 
+Data on additional doses administered are now available, as well as trends on the number of NYC residents vaccinated by demographic group.
 
 ***
 
@@ -64,9 +64,12 @@ Timeline of eligibility:
 |3/30/2021 | - People 30 years or older | 
 |4/6/2021 | - People 16 years or older | 
 |5/12/2021 | - People 12 years or older | 
-|11/3/2021 | - People 5 years or older | 
+|8/13/2021 | - Additional primary series dose authorized for immunocompromised people 12 years or older | 
+|11/3/2021 | - People 5 years or older authorized for COVID-19 vaccine | 
 |11/29/2021 | - Boosters authorized for people 18 years or older  | 
 |12/9/2021 | - Boosters authorized for people 16 years or older  | 
+|1/4/2021 | - Additional primary series dose authorized for immunocompromised children 5-11  | 
+|1/5/2021 | - Boosters authorized for people 12 years or older  | 
 
 
 
