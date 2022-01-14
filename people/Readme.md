@@ -1,7 +1,6 @@
 #  people/
 This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) or the New Jersey Immunization Information System (NJIIS). 
 
-
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
 Data on people vaccinated is broken down into the following categories:
@@ -11,7 +10,7 @@ Data on people vaccinated is broken down into the following categories:
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
-**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates do not represent the 2020 Census or recent changes to NYC’s population as a result of in-migration or out-migration. Additional factors contributing to these inconsistencies may be that people who identify as Multi-race are misreported under a single race, and self-reported ZIP code at the time of vaccination may not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination
+**Population estimates:** Please note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. These estimates do not represent the 2020 Census or recent changes to NYC’s population as a result of in-migration or out-migration. Additional factors contributing to these inconsistencies may be that people who identify as Multi-race are misreported under a single race, and self-reported ZIP code at the time of vaccination may not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purpose of vaccination.
 See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) for more information on population estimates.
 
 **Age groups**: Data are reported for the following age groups per U.S. Census age categories: 5-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination.
@@ -322,3 +321,17 @@ Indicators include:
 |PERC_1PLUS_CUMULATIVE_Allages | Percentage of the total number of people vaccinated with at least 1 dose by place of residence |Cumulative ||
 
 
+### trends-byage
+This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by age group. The age and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. 
+
+### trends-byboro
+
+This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by borough. The borough and vaccination status is indicated following the underscore (_) in each column heading.Cells less than 10 are suppressed and will show '<10'. 
+
+### trends-byrace
+
+This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by race/ethnicity. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. Race/ethnicity categories shown here include Black, White, Hispanic/Latino, Asian or other Pacific Islander, and American Indian or Alaska Native. "Other" includes people of two or more races or other race/ethnicities. Note that other files in this repository disaggregate two or more races. "Unknown" includes people with incomplete race/ethnicity information. 
+
+### trends-bysex
+
+This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by sex. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. "Other" includes people whose vaccination record indicates other or neither female or male. "Unknown" includes people with incomplete sex information or reporting prefer not to answer. 
