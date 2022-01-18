@@ -73,10 +73,11 @@ This file has the same variable definitions as coverage-summary-allages.csv, but
 
 ### coverage-by-modzcta-allages.csv
 
-This file contains information on the number and estimated percentage of NYC residents fully vaccinated and residents who received at least one dose of COVID-19 vaccine by Modified ZCTA (MODZCTA). Percentages of NYC residents vaccinated is calculated against the estimated total population of the specified MODZCTA.
+This file contains information on the number and estimated percentage of NYC residents fully vaccinated and residents who received at least one dose of COVID-19 vaccine by Modified ZCTA (MODZCTA). Percentages of NYC residents vaccinated is calculated against the estimated total population of the specified MODZCTA. 
 
 Note that the number of people vaccinated may exceed the estimated population and lead to more than 100% vaccination coverage, especially for smaller demographic categories and geographies. See [/technical notes](https://github.com/nychealth/covid-vaccine-data/blob/main/Readme.md#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) for more information on population estimates and MODZCTAs.
 
+Individuals whose addresses are not valid and who could not be mapped to a MODZCTA are not included in the map or the data download.
 
 Indicators include:
 
