@@ -125,6 +125,8 @@ To deal with the challenges of ZIP Codes, the Health Department uses ZCTAs which
 
 Please note that the number of people vaccinated in some neighborhoods may exceed the estimated population. The [percentage of people vaccinated](#percent-of-nyc-residents-vaccinated-by-demographic-group-and-geography) are calculated using intercensal population estimates from 2019, which do not reflect the most recent 2020 Census numbers. Additional factors contributing to these inconsistencies may be that self-reported ZIP code at the time of vaccination may not correspond to the vaccine recipient’s primary home address. For example, people may use their work address for the purposes of vaccination.
 
+Individuals whose addresses are not valid and who could not be mapped to a MODZCTA are not included in the map or the data download.
+
 
 ### Age Groups:
 
