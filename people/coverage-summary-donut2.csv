@@ -1,5 +1,5 @@
-"AGE_GROUP","PERC_1PLUS","PERC_NOVAX"
-"Children (5-17)",63.6,36.4
-"Adults (18+)",95.61,4.39
-"65 and Older",87.94,12.06
-"All ages",85.07,14.93
+AGE_GROUP,PERC_1PLUS,Percent Unvaccinated
+Children (5-17),63.6,36.4
+Adults (18+),95.61,4.39
+65 and Older,87.94,12.06
+All ages,85.07,14.93
