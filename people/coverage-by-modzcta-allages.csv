@@ -1,178 +1,178 @@
 "DATE","NEIGHBORHOOD_NAME","BOROUGH","MODZCTA","Label","AGE_GROUP","POP_DENOMINATOR","COUNT_PARTIALLY_CUMULATIVE","COUNT_FULLY_CUMULATIVE","COUNT_1PLUS_CUMULATIVE","PERC_PARTIALLY","PERC_FULLY","PERC_1PLUS"
-2022-03-03,"Chelsea/NoMad/West Chelsea","Manhattan","10001","10001, 10118","All ages",27613.09,9690,32095,41785,35.09,116.23,151.32
-2022-03-03,"Chinatown/Lower East Side","Manhattan","10002","10002","All ages",75322.71,8186,67424,75610,10.87,89.51,100.38
-2022-03-03,"East Village/Gramercy/Greenwich Village","Manhattan","10003","10003","All ages",53977.81,6936,41083,48019,12.85,76.11,88.96
-2022-03-03,"Financial District","Manhattan","10004","10004","All ages",2972.12,844,4006,4850,28.4,134.79,163.18
-2022-03-03,"Financial District","Manhattan","10005","10005","All ages",8757.23,1644,8411,10055,18.77,96.05,114.82
-2022-03-03,"Financial District","Manhattan","10006","10006","All ages",3381.8,1134,4380,5514,33.53,129.52,163.05
-2022-03-03,"TriBeCa","Manhattan","10007","10007","All ages",6991.45,1277,7080,8357,18.27,101.27,119.53
-2022-03-03,"Alphabet City/East Village/Stuyvesant Town-Cooper Village","Manhattan","10009","10009","All ages",57151.12,5865,45851,51716,10.26,80.23,90.49
-2022-03-03,"Flatiron/Gramercy/Kips Bay","Manhattan","10010","10010","All ages",33353,3689,26343,30032,11.06,78.98,90.04
-2022-03-03,"Chelsea","Manhattan","10011","10011","All ages",49745.99,5788,41638,47426,11.64,83.7,95.34
-2022-03-03,"Greenwich Village/SoHo","Manhattan","10012","10012","All ages",23152.07,2801,17747,20548,12.1,76.65,88.75
-2022-03-03,"Hudson Square/Little Italy/SoHo/TriBeCa","Manhattan","10013","10013","All ages",28818.86,3975,25366,29341,13.79,88.02,101.81
-2022-03-03,"Hudson Square/Meatpacking District/West Village","Manhattan","10014","10014","All ages",30336.05,3517,24967,28484,11.59,82.3,93.89
-2022-03-03,"Kips Bay/Murray Hill/NoMad","Manhattan","10016","10016","All ages",50912.11,7503,48163,55666,14.74,94.6,109.34
-2022-03-03,"East Midtown/Murray Hill","Manhattan","10017","10017","All ages",15613.27,4539,16512,21051,29.07,105.76,134.83
-2022-03-03,"Hell's Kitchen/Midtown Manhattan","Manhattan","10018","10018","All ages",11790.55,8849,18772,27621,75.05,159.21,234.26
-2022-03-03,"Hell's Kitchen/Midtown Manhattan","Manhattan","10019","10019, 10020","All ages",43522.4,14227,48624,62851,32.69,111.72,144.41
-2022-03-03,"Lenox Hill/Upper East Side","Manhattan","10021","10021","All ages",45875.54,4319,36452,40771,9.41,79.46,88.87
-2022-03-03,"East Midtown","Manhattan","10022","10022","All ages",30896.18,5675,29326,35001,18.37,94.92,113.29
-2022-03-03,"Lincoln Square","Manhattan","10023","10023","All ages",61782.48,7251,53630,60881,11.74,86.8,98.54
-2022-03-03,"Upper West Side","Manhattan","10024","10024","All ages",58412.05,5663,48424,54087,9.69,82.9,92.6
-2022-03-03,"Manhattan Valley/Morningside Heights/Upper West Side","Manhattan","10025","10025","All ages",91619.93,9868,74023,83891,10.77,80.79,91.56
-2022-03-03,"Central Harlem (South)","Manhattan","10026","10026","All ages",38664.36,3491,26546,30037,9.03,68.66,77.69
-2022-03-03,"Central Harlem (South)/Morningside Heights/West Harlem","Manhattan","10027","10027","All ages",63394.55,8258,44411,52669,13.03,70.05,83.08
-2022-03-03,"Upper East Side/Yorkville","Manhattan","10028","10028","All ages",47370.29,4128,37067,41195,8.71,78.25,86.96
-2022-03-03,"East Harlem","Manhattan","10029","10029","All ages",78224.82,6943,59768,66711,8.88,76.41,85.28
-2022-03-03,"Central Harlem (North)","Manhattan","10030","10030","All ages",29269.87,2666,19292,21958,9.11,65.91,75.02
-2022-03-03,"Hamilton Heights/West Harlem","Manhattan","10031","10031","All ages",59023.53,5192,41604,46796,8.8,70.49,79.28
-2022-03-03,"Washington Heights (South)","Manhattan","10032","10032","All ages",63051.12,5503,45344,50847,8.73,71.92,80.64
-2022-03-03,"Washington Heights (North)/Washington Heights (South)","Manhattan","10033","10033","All ages",58517.81,4586,40280,44866,7.84,68.83,76.67
-2022-03-03,"Inwood/Washington Heights (North)","Manhattan","10034","10034","All ages",42241.84,3200,29030,32230,7.58,68.72,76.3
-2022-03-03,"East Harlem","Manhattan","10035","10035","All ages",35240.03,3655,27087,30742,10.37,76.86,87.24
-2022-03-03,"Hell's Kitchen/Midtown Manhattan","Manhattan","10036","10036","All ages",27242.15,12972,38355,51327,47.62,140.79,188.41
-2022-03-03,"Central Harlem (North)/East Harlem","Manhattan","10037","10037","All ages",20793.37,1921,14787,16708,9.24,71.11,80.35
-2022-03-03,"Chinatown/Financial District","Manhattan","10038","10038","All ages",22864.58,3465,19645,23110,15.15,85.92,101.07
-2022-03-03,"Central Harlem (North)/Washington Heights (South)","Manhattan","10039","10039","All ages",27180.77,2462,18289,20751,9.06,67.29,76.34
-2022-03-03,"Washington Heights (North)","Manhattan","10040","10040","All ages",43966.32,3477,30996,34473,7.91,70.5,78.41
-2022-03-03,"Roosevelt Island","Manhattan","10044","10044","All ages",11671.84,1220,9778,10998,10.45,83.77,94.23
-2022-03-03,"Lenox Hill/Upper East Side","Manhattan","10065","10065","All ages",27899.1,3837,24044,27881,13.75,86.18,99.94
-2022-03-03,"Lincoln Square","Manhattan","10069","10069","All ages",6284.56,735,6177,6912,11.7,98.29,109.98
-2022-03-03,"Lenox Hill/Upper East Side","Manhattan","10075","10075, 10162","All ages",23044.5,2585,21297,23882,11.22,92.42,103.63
-2022-03-03,"Upper East Side/Yorkville","Manhattan","10128","10128","All ages",58558.8,5606,49262,54868,9.57,84.12,93.7
-2022-03-03,"Battery Park City","Manhattan","10280","10280","All ages",9346.22,859,6931,7790,9.19,74.16,83.35
-2022-03-03,"Battery Park City","Manhattan","10282","10282","All ages",5571.94,592,4311,4903,10.62,77.37,87.99
-2022-03-03,"Silver Lake/St. George","Staten Island","10301","10301","All ages",38904.96,3352,29487,32839,8.62,75.79,84.41
-2022-03-03,"Elm Park","Staten Island","10302","10302","All ages",18484.97,1915,14335,16250,10.36,77.55,87.91
-2022-03-03,"Graniteville/Mariner's Harbor/Port Ivory","Staten Island","10303","10303","All ages",26512.59,2107,19259,21366,7.95,72.64,80.59
-2022-03-03,"New Dorp/Todt Hill","Staten Island","10304","10304","All ages",41886.87,3528,32843,36371,8.42,78.41,86.83
-2022-03-03,"Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze","Staten Island","10305","10305","All ages",42856.19,2878,32949,35827,6.72,76.88,83.6
-2022-03-03,"Lighthouse Hill/Midland Beach/New Dorp/Oakwood","Staten Island","10306","10306","All ages",52806.81,3041,42359,45400,5.76,80.22,85.97
-2022-03-03,"Tottenville","Staten Island","10307","10307","All ages",14912.16,628,9221,9849,4.21,61.84,66.05
-2022-03-03,"Great Kills","Staten Island","10308","10308","All ages",29820.74,1362,19857,21219,4.57,66.59,71.16
-2022-03-03,"Charleston/Prince's Bay/Woodrow","Staten Island","10309","10309","All ages",32939.56,1662,22580,24242,5.05,68.55,73.6
-2022-03-03,"Port Richmond/Randall Manor/West Brighton","Staten Island","10310","10310","All ages",23441.55,1983,18531,20514,8.46,79.05,87.51
-2022-03-03,"Annadale/Rossville","Staten Island","10312","10312","All ages",61052.73,2875,43056,45931,4.71,70.52,75.23
-2022-03-03,"Bloomfield/Freshkills Park","Staten Island","10314","10314","All ages",92523.87,5044,65499,70543,5.45,70.79,76.24
-2022-03-03,"Concourse/Melrose","Bronx","10451","10451","All ages",47367.12,4857,38140,42997,10.25,80.52,90.77
-2022-03-03,"Concourse/Highbridge","Bronx","10452","10452","All ages",75212.41,7485,57090,64575,9.95,75.91,85.86
-2022-03-03,"Morris Heights/Mount Hope/University Heights","Bronx","10453","10453","All ages",78677.58,7915,56971,64886,10.06,72.41,82.47
-2022-03-03,"Mott Haven/Port Morris","Bronx","10454","10454","All ages",37829.72,4062,27684,31746,10.74,73.18,83.92
-2022-03-03,"Mott Haven","Bronx","10455","10455","All ages",41893.78,4252,30499,34751,10.15,72.8,82.95
-2022-03-03,"Claremont/Morrisania","Bronx","10456","10456","All ages",93192.84,9108,64094,73202,9.77,68.78,78.55
-2022-03-03,"Belmont/Claremont/Mount Hope/Tremont","Bronx","10457","10457","All ages",73721.56,8400,53182,61582,11.39,72.14,83.53
-2022-03-03,"Belmont/Fordham University/Kingsbridge","Bronx","10458","10458","All ages",82740.43,7979,57372,65351,9.64,69.34,78.98
-2022-03-03,"Charlotte Gardens/Hunts Point","Bronx","10459","10459","All ages",47872.88,4733,35072,39805,9.89,73.26,83.15
-2022-03-03,"Charlotte Gardens/Tremont/Van Nest/West Farms","Bronx","10460","10460","All ages",58874.7,5770,40767,46537,9.8,69.24,79.04
-2022-03-03,"Morris Park/Pelham Bay/Westchester Square","Bronx","10461","10461","All ages",49097.83,3578,40371,43949,7.29,82.23,89.51
-2022-03-03,"Parkchester/Pelham Parkway/Van Nest/Westchester Square","Bronx","10462","10462","All ages",75315.82,6278,62707,68985,8.34,83.26,91.59
-2022-03-03,"Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil","Bronx","10463","10463","All ages",69983.86,5393,53013,58406,7.71,75.75,83.46
-2022-03-03,"City Island","Bronx","10464","10464","All ages",4285.4,288,3373,3661,6.72,78.71,85.43
-2022-03-03,"Country Club/Throgs Neck","Bronx","10465","10465","All ages",43122.23,2619,29146,31765,6.07,67.59,73.66
-2022-03-03,"Edenwald/Wakefield","Bronx","10466","10466","All ages",71310.11,5302,46926,52228,7.44,65.81,73.24
-2022-03-03,"Allerton/Norwood/Pelham Parkway/Williamsbridge","Bronx","10467","10467","All ages",102058.58,8678,73061,81739,8.5,71.59,80.09
-2022-03-03,"Fordham/Kingsbridge/University Heights","Bronx","10468","10468","All ages",77811.41,7210,54610,61820,9.27,70.18,79.45
-2022-03-03,"Allerton/Baychester/Pelham Gardens/Williamsbridge","Bronx","10469","10469","All ages",72616.96,5134,48076,53210,7.07,66.2,73.27
-2022-03-03,"Wakefield/Woodlawn","Bronx","10470","10470","All ages",14991.78,1087,10890,11977,7.25,72.64,79.89
-2022-03-03,"Fieldston/North Riverdale/Riverdale","Bronx","10471","10471","All ages",21241.06,1580,17046,18626,7.44,80.25,87.69
-2022-03-03,"Soundview","Bronx","10472","10472","All ages",67979.13,6586,50679,57265,9.69,74.55,84.24
-2022-03-03,"Castle Hill/Clason Point/Soundview","Bronx","10473","10473","All ages",59110.54,4874,42334,47208,8.25,71.62,79.86
-2022-03-03,"Hunts Point","Bronx","10474","10474","All ages",11975.58,1239,8206,9445,10.35,68.52,78.87
-2022-03-03,"Co-op City/Edenwald","Bronx","10475","10475","All ages",42737.28,2335,30307,32642,5.46,70.91,76.38
-2022-03-03,"Bellerose/Douglaston-Little Neck","Queens","11004","11004, 11005","All ages",18949.5,939,14738,15677,4.96,77.78,82.73
-2022-03-03,"Astoria (South)/Long Island City/Sunnyside","Queens","11101","11101","All ages",36835.54,6968,39247,46215,18.92,106.55,125.46
-2022-03-03,"Astoria (North)","Queens","11102","11102","All ages",30044.75,2882,28537,31419,9.59,94.98,104.57
-2022-03-03,"Astoria (North)/Astoria (South)","Queens","11103","11103","All ages",34937.39,2808,29505,32313,8.04,84.45,92.49
-2022-03-03,"Sunnyside","Queens","11104","11104","All ages",25437.08,1974,23035,25009,7.76,90.56,98.32
-2022-03-03,"Ditmars Steinway","Queens","11105","11105","All ages",36189.85,2397,27710,30107,6.62,76.57,83.19
-2022-03-03,"Astoria (South)","Queens","11106","11106","All ages",37428.62,3207,32389,35596,8.57,86.54,95.1
-2022-03-03,"Long Island City","Queens","11109","11109","All ages",5762.76,747,5703,6450,12.96,98.96,111.93
-2022-03-03,"Brooklyn Heights/DUMBO/Downtown Brooklyn","Brooklyn","11201","11201","All ages",62294.06,7311,56001,63312,11.74,89.9,101.63
-2022-03-03,"East Flatbush (North)/East Flatbush (South)","Brooklyn","11203","11203","All ages",73314.38,5447,51819,57266,7.43,70.68,78.11
-2022-03-03,"Bensonhurst/Mapleton","Brooklyn","11204","11204","All ages",77087.49,4749,52043,56792,6.16,67.51,73.67
-2022-03-03,"Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene","Brooklyn","11205","11205","All ages",45332.4,3408,26176,29584,7.52,57.74,65.26
-2022-03-03,"Williamsburg (South)","Brooklyn","11206","11206","All ages",86709.93,6702,51902,58604,7.73,59.86,67.59
-2022-03-03,"Cypress Hills/East New York","Brooklyn","11207","11207","All ages",89031.83,8287,61445,69732,9.31,69.01,78.32
-2022-03-03,"Cypress Hills/East New York","Brooklyn","11208","11208","All ages",95565.18,8792,67891,76683,9.2,71.04,80.24
-2022-03-03,"Bay Ridge/Fort Hamilton","Brooklyn","11209","11209","All ages",67514.44,4308,53369,57677,6.38,79.05,85.43
-2022-03-03,"Flatlands/Midwood","Brooklyn","11210","11210","All ages",65687.01,3899,39552,43451,5.94,60.21,66.15
-2022-03-03,"East Williamsburg/Williamsburg (North)/Williamsburg (South)","Brooklyn","11211","11211, 11249","All ages",101667.01,7278,59156,66434,7.16,58.19,65.34
-2022-03-03,"Ocean Hill-Brownsville","Brooklyn","11212","11212","All ages",73966.99,7674,53853,61527,10.37,72.81,83.18
-2022-03-03,"Crown Heights (East)","Brooklyn","11213","11213","All ages",64601.26,5160,39407,44567,7.99,61,68.99
-2022-03-03,"Bath Beach/Bensonhurst/Gravesend","Brooklyn","11214","11214","All ages",92814.16,6345,71300,77645,6.84,76.82,83.66
-2022-03-03,"Gowanus/Park Slope/Windsor Terrace","Brooklyn","11215","11215","All ages",69624.37,5313,55380,60693,7.63,79.54,87.17
-2022-03-03,"Bedford-Stuyvesant (West)/Crown Heights (West)","Brooklyn","11216","11216","All ages",54825.36,5169,40287,45456,9.43,73.48,82.91
-2022-03-03,"Boerum Hill/Park Slope","Brooklyn","11217","11217, 11243","All ages",40870.72,3893,31408,35301,9.53,76.85,86.37
-2022-03-03,"Kensington/Windsor Terrace","Brooklyn","11218","11218","All ages",73995.92,4553,52235,56788,6.15,70.59,76.74
-2022-03-03,"Borough Park","Brooklyn","11219","11219","All ages",90082.53,5049,47186,52235,5.6,52.38,57.99
-2022-03-03,"Sunset Park","Brooklyn","11220","11220","All ages",94590.76,11377,96047,107424,12.03,101.54,113.57
-2022-03-03,"Bedford-Stuyvesant (East)/Bushwick","Brooklyn","11221","11221","All ages",81440.74,8251,59074,67325,10.13,72.54,82.67
-2022-03-03,"Greenpoint","Brooklyn","11222","11222","All ages",36123.42,3576,31401,34977,9.9,86.93,96.83
-2022-03-03,"Gravesend/Homecrest","Brooklyn","11223","11223","All ages",81491.64,4796,52523,57319,5.89,64.45,70.34
-2022-03-03,"Brighton Beach/Coney Island/Seagate","Brooklyn","11224","11224","All ages",46270.81,3201,29257,32458,6.92,63.23,70.15
-2022-03-03,"Crown Heights (West)/Prospect Lefferts Gardens","Brooklyn","11225","11225","All ages",57513.69,4132,40531,44663,7.18,70.47,77.66
-2022-03-03,"Flatbush/Prospect Lefferts Gardens","Brooklyn","11226","11226","All ages",97355.08,8529,73825,82354,8.76,75.83,84.59
-2022-03-03,"Bath Beach/Dyker Heights","Brooklyn","11228","11228","All ages",44983.02,2576,34319,36895,5.73,76.29,82.02
-2022-03-03,"Gerritsen Beach/Homecrest/Sheepshead Bay","Brooklyn","11229","11229","All ages",83531.47,4250,54948,59198,5.09,65.78,70.87
-2022-03-03,"Midwood","Brooklyn","11230","11230","All ages",88889.21,5284,51998,57282,5.94,58.5,64.44
-2022-03-03,"Carroll Gardens/Cobble Hill/Red Hook","Brooklyn","11231","11231","All ages",37376.63,2808,28134,30942,7.51,75.27,82.78
-2022-03-03,"Sunset Park","Brooklyn","11232","11232","All ages",27085.73,2404,21717,24121,8.88,80.18,89.05
-2022-03-03,"Bedford-Stuyvesant (East)/Ocean Hill-Brownsville","Brooklyn","11233","11233","All ages",74323.4,6195,44729,50924,8.34,60.18,68.52
-2022-03-03,"Bergen Beach/Flatlands/Marine Park/Mill Basin","Brooklyn","11234","11234","All ages",94056.07,4937,60192,65129,5.25,64,69.24
-2022-03-03,"Brighton Beach/Manhattan Beach/Sheepshead Bay","Brooklyn","11235","11235","All ages",78197.62,4720,57593,62313,6.04,73.65,79.69
-2022-03-03,"Canarsie","Brooklyn","11236","11236","All ages",97117.19,6524,63562,70086,6.72,65.45,72.17
-2022-03-03,"Bushwick/East Williamsburg","Brooklyn","11237","11237","All ages",48000.58,5770,38192,43962,12.02,79.57,91.59
-2022-03-03,"Clinton Hill/Prospect Heights","Brooklyn","11238","11238","All ages",53548.62,4819,46050,50869,9,86,95
-2022-03-03,"East New York","Brooklyn","11239","11239","All ages",13022.3,1227,12231,13458,9.42,93.92,103.35
-2022-03-03,"Flushing/Murray Hill","Queens","11354","11354","All ages",53918.85,5104,52929,58033,9.47,98.16,107.63
-2022-03-03,"Flushing/Murray Hill/Queensboro Hill","Queens","11355","11355","All ages",78852.89,8612,87311,95923,10.92,110.73,121.65
-2022-03-03,"College Point","Queens","11356","11356","All ages",22814.02,2515,22506,25021,11.02,98.65,109.67
-2022-03-03,"Whitestone","Queens","11357","11357","All ages",38714.77,2485,32689,35174,6.42,84.44,90.85
-2022-03-03,"Auburndale/Murray Hill","Queens","11358","11358","All ages",36024.61,2804,34269,37073,7.78,95.13,102.91
-2022-03-03,"Bayside (North)","Queens","11360","11360","All ages",19045.39,1155,15989,17144,6.06,83.95,90.02
-2022-03-03,"Bayside (North)/Bayside (South)","Queens","11361","11361","All ages",26370.6,1888,24337,26225,7.16,92.29,99.45
-2022-03-03,"Douglaston-Little Neck","Queens","11362","11362","All ages",18101.72,1156,15137,16293,6.39,83.62,90.01
-2022-03-03,"Douglaston-Little Neck","Queens","11363","11363","All ages",6735.31,426,5890,6316,6.32,87.45,93.77
-2022-03-03,"Bayside (South)/Oakland Gardens","Queens","11364","11364","All ages",35688.29,2232,31185,33417,6.25,87.38,93.64
-2022-03-03,"Auburndale/Fresh Meadows/Pomonok/Utopia","Queens","11365","11365","All ages",43815.08,3234,37411,40645,7.38,85.38,92.76
-2022-03-03,"Fresh Meadows/Hillcrest","Queens","11366","11366","All ages",14208.14,982,11278,12260,6.91,79.38,86.29
-2022-03-03,"Kew Gardens Hills/Pomonok","Queens","11367","11367","All ages",40676.04,2807,29545,32352,6.9,72.63,79.54
-2022-03-03,"Corona/North Corona","Queens","11368","11368","All ages",110369.78,14822,102032,116854,13.43,92.45,105.87
-2022-03-03,"Airport/East Elmhurst","Queens","11369","11369","All ages",33627.74,4036,32389,36425,12,96.32,108.32
-2022-03-03,"Jackson Heights/Rikers Island","Queens","11370","11370","All ages",31777.34,2394,24285,26679,7.53,76.42,83.96
-2022-03-03,"Jackson Heights","Queens","11372","11372","All ages",60682.72,6745,62898,69643,11.12,103.65,114.77
-2022-03-03,"Elmhurst","Queens","11373","11373","All ages",91655.7,9534,97324,106858,10.4,106.18,116.59
-2022-03-03,"Rego Park","Queens","11374","11374","All ages",41393.74,2733,35501,38234,6.6,85.76,92.37
-2022-03-03,"Forest Hills","Queens","11375","11375","All ages",71266.52,4061,55263,59324,5.7,77.54,83.24
-2022-03-03,"Woodside","Queens","11377","11377","All ages",84048.11,7154,77607,84761,8.51,92.34,100.85
-2022-03-03,"Maspeth","Queens","11378","11378","All ages",36145.45,2553,28529,31082,7.06,78.93,85.99
-2022-03-03,"Middle Village","Queens","11379","11379","All ages",36636.49,1972,27307,29279,5.38,74.53,79.92
-2022-03-03,"Glendale/Ridgewood","Queens","11385","11385","All ages",103615.19,8248,74877,83125,7.96,72.26,80.22
-2022-03-03,"Cambria Heights","Queens","11411","11411","All ages",21378.1,1380,14362,15742,6.46,67.18,73.64
-2022-03-03,"St. Albans","Queens","11412","11412","All ages",38097.58,2865,26457,29322,7.52,69.45,76.97
-2022-03-03,"Laurelton/Rosedale","Queens","11413","11413","All ages",43206.88,2880,28182,31062,6.67,65.23,71.89
-2022-03-03,"Hamilton Beach/Howard Beach/Lindenwood","Queens","11414","11414","All ages",28358.4,1398,19020,20418,4.93,67.07,72
-2022-03-03,"Kew Gardens","Queens","11415","11415","All ages",18873.03,1217,14642,15859,6.45,77.58,84.03
-2022-03-03,"Ozone Park","Queens","11416","11416","All ages",26389.62,2072,22182,24254,7.85,84.06,91.91
-2022-03-03,"Ozone Park","Queens","11417","11417","All ages",31041.34,2180,25719,27899,7.02,82.85,89.88
-2022-03-03,"Richmond Hill","Queens","11418","11418","All ages",37585.6,3140,30372,33512,8.35,80.81,89.16
-2022-03-03,"Richmond Hill/South Ozone Park","Queens","11419","11419","All ages",48504.92,3721,41221,44942,7.67,84.98,92.65
-2022-03-03,"South Ozone Park","Queens","11420","11420","All ages",47835.06,3177,38644,41821,6.64,80.79,87.43
-2022-03-03,"Woodhaven","Queens","11421","11421","All ages",40049.5,3313,34070,37383,8.27,85.07,93.34
-2022-03-03,"Rosedale","Queens","11422","11422","All ages",32389.06,2348,21711,24059,7.25,67.03,74.28
-2022-03-03,"Hollis/Holliswood","Queens","11423","11423","All ages",31138.4,2214,25094,27308,7.11,80.59,87.7
-2022-03-03,"Bellerose","Queens","11426","11426","All ages",20163.58,1274,15612,16886,6.32,77.43,83.75
-2022-03-03,"Bellerose/Hollis Hills/Holliswood","Queens","11427","11427","All ages",23572.82,1687,21091,22778,7.16,89.47,96.63
-2022-03-03,"Queens Village","Queens","11428","11428","All ages",18580.92,1451,16325,17776,7.81,87.86,95.67
-2022-03-03,"Queens Village","Queens","11429","11429","All ages",32168.3,2057,21496,23553,6.39,66.82,73.22
-2022-03-03,"Hillcrest/Jamaica Estates/Jamaica Hills","Queens","11432","11432","All ages",60754.71,5476,55040,60516,9.01,90.59,99.61
-2022-03-03,"Jamaica","Queens","11433","11433","All ages",36521.92,3018,27025,30043,8.26,74,82.26
-2022-03-03,"Airport/South Jamaica/Springfield Gardens/St. Albans","Queens","11434","11434","All ages",66763.37,5375,45544,50919,8.05,68.22,76.27
-2022-03-03,"Briarwood/Jamaica","Queens","11435","11435","All ages",58415.04,4403,45313,49716,7.54,77.57,85.11
-2022-03-03,"South Jamaica/South Ozone Park","Queens","11436","11436","All ages",20042.54,1634,15205,16839,8.15,75.86,84.02
-2022-03-03,"Edgemere/Far Rockaway","Queens","11691","11691","All ages",66856.31,5214,36565,41779,7.8,54.69,62.49
-2022-03-03,"Arverne/Edgemere","Queens","11692","11692","All ages",21029.13,1634,13082,14716,7.77,62.21,69.98
-2022-03-03,"Arverne/Broad Channel","Queens","11693","11693","All ages",12672.14,758,8069,8827,5.98,63.68,69.66
-2022-03-03,"Belle Harbor-Neponsit/Rockaway Park","Queens","11694","11694","All ages",20779.4,1031,13700,14731,4.96,65.93,70.89
-2022-03-03,"Breezy Point","Queens","11697","11697","All ages",3392.62,207,3390,3597,6.1,99.92,106.02
+2022-03-06,"Chelsea/NoMad/West Chelsea","Manhattan","10001","10001, 10118","All ages",27613.09,9717,32106,41823,35.19,116.27,151.46
+2022-03-06,"Chinatown/Lower East Side","Manhattan","10002","10002","All ages",75322.71,8173,67456,75629,10.85,89.56,100.41
+2022-03-06,"East Village/Gramercy/Greenwich Village","Manhattan","10003","10003","All ages",53977.81,6961,41064,48025,12.9,76.08,88.97
+2022-03-06,"Financial District","Manhattan","10004","10004","All ages",2972.12,845,4010,4855,28.43,134.92,163.35
+2022-03-06,"Financial District","Manhattan","10005","10005","All ages",8757.23,1650,8410,10060,18.84,96.03,114.88
+2022-03-06,"Financial District","Manhattan","10006","10006","All ages",3381.8,1132,4382,5514,33.47,129.58,163.05
+2022-03-06,"TriBeCa","Manhattan","10007","10007","All ages",6991.45,1282,7073,8355,18.34,101.17,119.5
+2022-03-06,"Alphabet City/East Village/Stuyvesant Town-Cooper Village","Manhattan","10009","10009","All ages",57151.12,5865,45878,51743,10.26,80.27,90.54
+2022-03-06,"Flatiron/Gramercy/Kips Bay","Manhattan","10010","10010","All ages",33353,3693,26341,30034,11.07,78.98,90.05
+2022-03-06,"Chelsea","Manhattan","10011","10011","All ages",49745.99,5789,41654,47443,11.64,83.73,95.37
+2022-03-06,"Greenwich Village/SoHo","Manhattan","10012","10012","All ages",23152.07,2799,17753,20552,12.09,76.68,88.77
+2022-03-06,"Hudson Square/Little Italy/SoHo/TriBeCa","Manhattan","10013","10013","All ages",28818.86,3987,25377,29364,13.83,88.06,101.89
+2022-03-06,"Hudson Square/Meatpacking District/West Village","Manhattan","10014","10014","All ages",30336.05,3523,24976,28499,11.61,82.33,93.94
+2022-03-06,"Kips Bay/Murray Hill/NoMad","Manhattan","10016","10016","All ages",50912.11,7519,48165,55684,14.77,94.6,109.37
+2022-03-06,"East Midtown/Murray Hill","Manhattan","10017","10017","All ages",15613.27,4547,16510,21057,29.12,105.74,134.87
+2022-03-06,"Hell's Kitchen/Midtown Manhattan","Manhattan","10018","10018","All ages",11790.55,8874,18769,27643,75.26,159.19,234.45
+2022-03-06,"Hell's Kitchen/Midtown Manhattan","Manhattan","10019","10019, 10020","All ages",43522.4,14255,48645,62900,32.75,111.77,144.52
+2022-03-06,"Lenox Hill/Upper East Side","Manhattan","10021","10021","All ages",45875.54,4320,36463,40783,9.42,79.48,88.9
+2022-03-06,"East Midtown","Manhattan","10022","10022","All ages",30896.18,5681,29324,35005,18.39,94.91,113.3
+2022-03-06,"Lincoln Square","Manhattan","10023","10023","All ages",61782.48,7266,53624,60890,11.76,86.79,98.56
+2022-03-06,"Upper West Side","Manhattan","10024","10024","All ages",58412.05,5662,48466,54128,9.69,82.97,92.67
+2022-03-06,"Manhattan Valley/Morningside Heights/Upper West Side","Manhattan","10025","10025","All ages",91619.93,9871,74025,83896,10.77,80.8,91.57
+2022-03-06,"Central Harlem (South)","Manhattan","10026","10026","All ages",38664.36,3472,26601,30073,8.98,68.8,77.78
+2022-03-06,"Central Harlem (South)/Morningside Heights/West Harlem","Manhattan","10027","10027","All ages",63394.55,8234,44471,52705,12.99,70.15,83.14
+2022-03-06,"Upper East Side/Yorkville","Manhattan","10028","10028","All ages",47370.29,4129,37090,41219,8.72,78.3,87.01
+2022-03-06,"East Harlem","Manhattan","10029","10029","All ages",78224.82,6935,59852,66787,8.87,76.51,85.38
+2022-03-06,"Central Harlem (North)","Manhattan","10030","10030","All ages",29269.87,2654,19322,21976,9.07,66.01,75.08
+2022-03-06,"Hamilton Heights/West Harlem","Manhattan","10031","10031","All ages",59023.53,5185,41638,46823,8.78,70.54,79.33
+2022-03-06,"Washington Heights (South)","Manhattan","10032","10032","All ages",63051.12,5495,45383,50878,8.72,71.98,80.69
+2022-03-06,"Washington Heights (North)/Washington Heights (South)","Manhattan","10033","10033","All ages",58517.81,4569,40334,44903,7.81,68.93,76.73
+2022-03-06,"Inwood/Washington Heights (North)","Manhattan","10034","10034","All ages",42241.84,3195,29057,32252,7.56,68.79,76.35
+2022-03-06,"East Harlem","Manhattan","10035","10035","All ages",35240.03,3640,27114,30754,10.33,76.94,87.27
+2022-03-06,"Hell's Kitchen/Midtown Manhattan","Manhattan","10036","10036","All ages",27242.15,13030,38384,51414,47.83,140.9,188.73
+2022-03-06,"Central Harlem (North)/East Harlem","Manhattan","10037","10037","All ages",20793.37,1916,14801,16717,9.21,71.18,80.4
+2022-03-06,"Chinatown/Financial District","Manhattan","10038","10038","All ages",22864.58,3469,19644,23113,15.17,85.91,101.09
+2022-03-06,"Central Harlem (North)/Washington Heights (South)","Manhattan","10039","10039","All ages",27180.77,2460,18308,20768,9.05,67.36,76.41
+2022-03-06,"Washington Heights (North)","Manhattan","10040","10040","All ages",43966.32,3459,31012,34471,7.87,70.54,78.4
+2022-03-06,"Roosevelt Island","Manhattan","10044","10044","All ages",11671.84,1221,9791,11012,10.46,83.89,94.35
+2022-03-06,"Lenox Hill/Upper East Side","Manhattan","10065","10065","All ages",27899.1,3849,24046,27895,13.8,86.19,99.99
+2022-03-06,"Lincoln Square","Manhattan","10069","10069","All ages",6284.56,737,6174,6911,11.73,98.24,109.97
+2022-03-06,"Lenox Hill/Upper East Side","Manhattan","10075","10075, 10162","All ages",23044.5,2596,21302,23898,11.27,92.44,103.7
+2022-03-06,"Upper East Side/Yorkville","Manhattan","10128","10128","All ages",58558.8,5601,49272,54873,9.56,84.14,93.71
+2022-03-06,"Battery Park City","Manhattan","10280","10280","All ages",9346.22,860,6935,7795,9.2,74.2,83.4
+2022-03-06,"Battery Park City","Manhattan","10282","10282","All ages",5571.94,594,4307,4901,10.66,77.3,87.96
+2022-03-06,"Silver Lake/St. George","Staten Island","10301","10301","All ages",38904.96,3338,29528,32866,8.58,75.9,84.48
+2022-03-06,"Elm Park","Staten Island","10302","10302","All ages",18484.97,1906,14356,16262,10.31,77.66,87.97
+2022-03-06,"Graniteville/Mariner's Harbor/Port Ivory","Staten Island","10303","10303","All ages",26512.59,2088,19295,21383,7.88,72.78,80.65
+2022-03-06,"New Dorp/Todt Hill","Staten Island","10304","10304","All ages",41886.87,3514,32885,36399,8.39,78.51,86.9
+2022-03-06,"Arrochar/Midland Beach/Shore Acres/South Beach Ocean Breeze","Staten Island","10305","10305","All ages",42856.19,2852,32990,35842,6.65,76.98,83.63
+2022-03-06,"Lighthouse Hill/Midland Beach/New Dorp/Oakwood","Staten Island","10306","10306","All ages",52806.81,3029,42394,45423,5.74,80.28,86.02
+2022-03-06,"Tottenville","Staten Island","10307","10307","All ages",14912.16,626,9227,9853,4.2,61.88,66.07
+2022-03-06,"Great Kills","Staten Island","10308","10308","All ages",29820.74,1359,19877,21236,4.56,66.65,71.21
+2022-03-06,"Charleston/Prince's Bay/Woodrow","Staten Island","10309","10309","All ages",32939.56,1659,22605,24264,5.04,68.63,73.66
+2022-03-06,"Port Richmond/Randall Manor/West Brighton","Staten Island","10310","10310","All ages",23441.55,1960,18560,20520,8.36,79.18,87.54
+2022-03-06,"Annadale/Rossville","Staten Island","10312","10312","All ages",61052.73,2840,43098,45938,4.65,70.59,75.24
+2022-03-06,"Bloomfield/Freshkills Park","Staten Island","10314","10314","All ages",92523.87,5021,65568,70589,5.43,70.87,76.29
+2022-03-06,"Concourse/Melrose","Bronx","10451","10451","All ages",47367.12,4858,38201,43059,10.26,80.65,90.9
+2022-03-06,"Concourse/Highbridge","Bronx","10452","10452","All ages",75212.41,7464,57193,64657,9.92,76.04,85.97
+2022-03-06,"Morris Heights/Mount Hope/University Heights","Bronx","10453","10453","All ages",78677.58,7860,57063,64923,9.99,72.53,82.52
+2022-03-06,"Mott Haven/Port Morris","Bronx","10454","10454","All ages",37829.72,4026,27748,31774,10.64,73.35,83.99
+2022-03-06,"Mott Haven","Bronx","10455","10455","All ages",41893.78,4240,30559,34799,10.12,72.94,83.06
+2022-03-06,"Claremont/Morrisania","Bronx","10456","10456","All ages",93192.84,9082,64224,73306,9.75,68.92,78.66
+2022-03-06,"Belmont/Claremont/Mount Hope/Tremont","Bronx","10457","10457","All ages",73721.56,8366,53283,61649,11.35,72.28,83.62
+2022-03-06,"Belmont/Fordham University/Kingsbridge","Bronx","10458","10458","All ages",82740.43,7949,57449,65398,9.61,69.43,79.04
+2022-03-06,"Charlotte Gardens/Hunts Point","Bronx","10459","10459","All ages",47872.88,4697,35153,39850,9.81,73.43,83.24
+2022-03-06,"Charlotte Gardens/Tremont/Van Nest/West Farms","Bronx","10460","10460","All ages",58874.7,5746,40829,46575,9.76,69.35,79.11
+2022-03-06,"Morris Park/Pelham Bay/Westchester Square","Bronx","10461","10461","All ages",49097.83,3559,40422,43981,7.25,82.33,89.58
+2022-03-06,"Parkchester/Pelham Parkway/Van Nest/Westchester Square","Bronx","10462","10462","All ages",75315.82,6230,62816,69046,8.27,83.4,91.68
+2022-03-06,"Kingsbridge/Marble Hill/Riverdale/Spuyten Duyvil","Bronx","10463","10463","All ages",69983.86,5379,53039,58418,7.69,75.79,83.47
+2022-03-06,"City Island","Bronx","10464","10464","All ages",4285.4,288,3371,3659,6.72,78.66,85.38
+2022-03-06,"Country Club/Throgs Neck","Bronx","10465","10465","All ages",43122.23,2599,29181,31780,6.03,67.67,73.7
+2022-03-06,"Edenwald/Wakefield","Bronx","10466","10466","All ages",71310.11,5252,47017,52269,7.37,65.93,73.3
+2022-03-06,"Allerton/Norwood/Pelham Parkway/Williamsbridge","Bronx","10467","10467","All ages",102058.58,8632,73202,81834,8.46,71.73,80.18
+2022-03-06,"Fordham/Kingsbridge/University Heights","Bronx","10468","10468","All ages",77811.41,7163,54713,61876,9.21,70.31,79.52
+2022-03-06,"Allerton/Baychester/Pelham Gardens/Williamsbridge","Bronx","10469","10469","All ages",72616.96,5096,48154,53250,7.02,66.31,73.33
+2022-03-06,"Wakefield/Woodlawn","Bronx","10470","10470","All ages",14991.78,1086,10900,11986,7.24,72.71,79.95
+2022-03-06,"Fieldston/North Riverdale/Riverdale","Bronx","10471","10471","All ages",21241.06,1574,17045,18619,7.41,80.25,87.66
+2022-03-06,"Soundview","Bronx","10472","10472","All ages",67979.13,6552,50776,57328,9.64,74.69,84.33
+2022-03-06,"Castle Hill/Clason Point/Soundview","Bronx","10473","10473","All ages",59110.54,4844,42409,47253,8.19,71.75,79.94
+2022-03-06,"Hunts Point","Bronx","10474","10474","All ages",11975.58,1222,8229,9451,10.2,68.71,78.92
+2022-03-06,"Co-op City/Edenwald","Bronx","10475","10475","All ages",42737.28,2328,30341,32669,5.45,70.99,76.44
+2022-03-06,"Bellerose/Douglaston-Little Neck","Queens","11004","11004, 11005","All ages",18949.5,915,14770,15685,4.83,77.94,82.77
+2022-03-06,"Astoria (South)/Long Island City/Sunnyside","Queens","11101","11101","All ages",36835.54,6974,39256,46230,18.93,106.57,125.5
+2022-03-06,"Astoria (North)","Queens","11102","11102","All ages",30044.75,2872,28566,31438,9.56,95.08,104.64
+2022-03-06,"Astoria (North)/Astoria (South)","Queens","11103","11103","All ages",34937.39,2795,29522,32317,8,84.5,92.5
+2022-03-06,"Sunnyside","Queens","11104","11104","All ages",25437.08,1977,23053,25030,7.77,90.63,98.4
+2022-03-06,"Ditmars Steinway","Queens","11105","11105","All ages",36189.85,2390,27720,30110,6.6,76.6,83.2
+2022-03-06,"Astoria (South)","Queens","11106","11106","All ages",37428.62,3214,32416,35630,8.59,86.61,95.19
+2022-03-06,"Long Island City","Queens","11109","11109","All ages",5762.76,750,5714,6464,13.01,99.15,112.17
+2022-03-06,"Brooklyn Heights/DUMBO/Downtown Brooklyn","Brooklyn","11201","11201","All ages",62294.06,7316,56025,63341,11.74,89.94,101.68
+2022-03-06,"East Flatbush (North)/East Flatbush (South)","Brooklyn","11203","11203","All ages",73314.38,5414,51910,57324,7.38,70.8,78.19
+2022-03-06,"Bensonhurst/Mapleton","Brooklyn","11204","11204","All ages",77087.49,4739,52086,56825,6.15,67.57,73.71
+2022-03-06,"Bedford-Stuyvesant (West)/Clinton Hill/Fort Greene","Brooklyn","11205","11205","All ages",45332.4,3405,26197,29602,7.51,57.79,65.3
+2022-03-06,"Williamsburg (South)","Brooklyn","11206","11206","All ages",86709.93,6695,52007,58702,7.72,59.98,67.7
+2022-03-06,"Cypress Hills/East New York","Brooklyn","11207","11207","All ages",89031.83,8238,61557,69795,9.25,69.14,78.39
+2022-03-06,"Cypress Hills/East New York","Brooklyn","11208","11208","All ages",95565.18,8755,67994,76749,9.16,71.15,80.31
+2022-03-06,"Bay Ridge/Fort Hamilton","Brooklyn","11209","11209","All ages",67514.44,4282,53420,57702,6.34,79.12,85.47
+2022-03-06,"Flatlands/Midwood","Brooklyn","11210","11210","All ages",65687.01,3891,39604,43495,5.92,60.29,66.22
+2022-03-06,"East Williamsburg/Williamsburg (North)/Williamsburg (South)","Brooklyn","11211","11211, 11249","All ages",101667.01,7264,59205,66469,7.14,58.23,65.38
+2022-03-06,"Ocean Hill-Brownsville","Brooklyn","11212","11212","All ages",73966.99,7631,53986,61617,10.32,72.99,83.3
+2022-03-06,"Crown Heights (East)","Brooklyn","11213","11213","All ages",64601.26,5150,39451,44601,7.97,61.07,69.04
+2022-03-06,"Bath Beach/Bensonhurst/Gravesend","Brooklyn","11214","11214","All ages",92814.16,6302,71414,77716,6.79,76.94,83.73
+2022-03-06,"Gowanus/Park Slope/Windsor Terrace","Brooklyn","11215","11215","All ages",69624.37,5303,55404,60707,7.62,79.58,87.19
+2022-03-06,"Bedford-Stuyvesant (West)/Crown Heights (West)","Brooklyn","11216","11216","All ages",54825.36,5154,40329,45483,9.4,73.56,82.96
+2022-03-06,"Boerum Hill/Park Slope","Brooklyn","11217","11217, 11243","All ages",40870.72,3897,31433,35330,9.53,76.91,86.44
+2022-03-06,"Kensington/Windsor Terrace","Brooklyn","11218","11218","All ages",73995.92,4509,52280,56789,6.09,70.65,76.75
+2022-03-06,"Borough Park","Brooklyn","11219","11219","All ages",90082.53,5026,47242,52268,5.58,52.44,58.02
+2022-03-06,"Sunset Park","Brooklyn","11220","11220","All ages",94590.76,11362,96164,107526,12.01,101.66,113.67
+2022-03-06,"Bedford-Stuyvesant (East)/Bushwick","Brooklyn","11221","11221","All ages",81440.74,8230,59140,67370,10.11,72.62,82.72
+2022-03-06,"Greenpoint","Brooklyn","11222","11222","All ages",36123.42,3571,31394,34965,9.89,86.91,96.79
+2022-03-06,"Gravesend/Homecrest","Brooklyn","11223","11223","All ages",81491.64,4771,52582,57353,5.85,64.52,70.38
+2022-03-06,"Brighton Beach/Coney Island/Seagate","Brooklyn","11224","11224","All ages",46270.81,3178,29307,32485,6.87,63.34,70.21
+2022-03-06,"Crown Heights (West)/Prospect Lefferts Gardens","Brooklyn","11225","11225","All ages",57513.69,4117,40560,44677,7.16,70.52,77.68
+2022-03-06,"Flatbush/Prospect Lefferts Gardens","Brooklyn","11226","11226","All ages",97355.08,8488,73925,82413,8.72,75.93,84.65
+2022-03-06,"Bath Beach/Dyker Heights","Brooklyn","11228","11228","All ages",44983.02,2575,34350,36925,5.72,76.36,82.09
+2022-03-06,"Gerritsen Beach/Homecrest/Sheepshead Bay","Brooklyn","11229","11229","All ages",83531.47,4216,55026,59242,5.05,65.87,70.92
+2022-03-06,"Midwood","Brooklyn","11230","11230","All ages",88889.21,5256,52052,57308,5.91,58.56,64.47
+2022-03-06,"Carroll Gardens/Cobble Hill/Red Hook","Brooklyn","11231","11231","All ages",37376.63,2791,28160,30951,7.47,75.34,82.81
+2022-03-06,"Sunset Park","Brooklyn","11232","11232","All ages",27085.73,2391,21742,24133,8.83,80.27,89.1
+2022-03-06,"Bedford-Stuyvesant (East)/Ocean Hill-Brownsville","Brooklyn","11233","11233","All ages",74323.4,6165,44815,50980,8.29,60.3,68.59
+2022-03-06,"Bergen Beach/Flatlands/Marine Park/Mill Basin","Brooklyn","11234","11234","All ages",94056.07,4899,60264,65163,5.21,64.07,69.28
+2022-03-06,"Brighton Beach/Manhattan Beach/Sheepshead Bay","Brooklyn","11235","11235","All ages",78197.62,4698,57651,62349,6.01,73.72,79.73
+2022-03-06,"Canarsie","Brooklyn","11236","11236","All ages",97117.19,6470,63669,70139,6.66,65.56,72.22
+2022-03-06,"Bushwick/East Williamsburg","Brooklyn","11237","11237","All ages",48000.58,5771,38235,44006,12.02,79.66,91.68
+2022-03-06,"Clinton Hill/Prospect Heights","Brooklyn","11238","11238","All ages",53548.62,4808,46094,50902,8.98,86.08,95.06
+2022-03-06,"East New York","Brooklyn","11239","11239","All ages",13022.3,1210,12256,13466,9.29,94.12,103.41
+2022-03-06,"Flushing/Murray Hill","Queens","11354","11354","All ages",53918.85,5105,52959,58064,9.47,98.22,107.69
+2022-03-06,"Flushing/Murray Hill/Queensboro Hill","Queens","11355","11355","All ages",78852.89,8597,87365,95962,10.9,110.79,121.7
+2022-03-06,"College Point","Queens","11356","11356","All ages",22814.02,2509,22528,25037,11,98.75,109.74
+2022-03-06,"Whitestone","Queens","11357","11357","All ages",38714.77,2467,32720,35187,6.37,84.52,90.89
+2022-03-06,"Auburndale/Murray Hill","Queens","11358","11358","All ages",36024.61,2792,34278,37070,7.75,95.15,102.9
+2022-03-06,"Bayside (North)","Queens","11360","11360","All ages",19045.39,1149,15997,17146,6.03,83.99,90.03
+2022-03-06,"Bayside (North)/Bayside (South)","Queens","11361","11361","All ages",26370.6,1892,24354,26246,7.17,92.35,99.53
+2022-03-06,"Douglaston-Little Neck","Queens","11362","11362","All ages",18101.72,1155,15138,16293,6.38,83.63,90.01
+2022-03-06,"Douglaston-Little Neck","Queens","11363","11363","All ages",6735.31,425,5886,6311,6.31,87.39,93.7
+2022-03-06,"Bayside (South)/Oakland Gardens","Queens","11364","11364","All ages",35688.29,2222,31184,33406,6.23,87.38,93.6
+2022-03-06,"Auburndale/Fresh Meadows/Pomonok/Utopia","Queens","11365","11365","All ages",43815.08,3223,37433,40656,7.36,85.43,92.79
+2022-03-06,"Fresh Meadows/Hillcrest","Queens","11366","11366","All ages",14208.14,976,11288,12264,6.87,79.45,86.32
+2022-03-06,"Kew Gardens Hills/Pomonok","Queens","11367","11367","All ages",40676.04,2801,29570,32371,6.89,72.7,79.58
+2022-03-06,"Corona/North Corona","Queens","11368","11368","All ages",110369.78,14785,102185,116970,13.4,92.58,105.98
+2022-03-06,"Airport/East Elmhurst","Queens","11369","11369","All ages",33627.74,4015,32438,36453,11.94,96.46,108.4
+2022-03-06,"Jackson Heights/Rikers Island","Queens","11370","11370","All ages",31777.34,2386,24309,26695,7.51,76.5,84.01
+2022-03-06,"Jackson Heights","Queens","11372","11372","All ages",60682.72,6726,62946,69672,11.08,103.73,114.81
+2022-03-06,"Elmhurst","Queens","11373","11373","All ages",91655.7,9509,97433,106942,10.37,106.3,116.68
+2022-03-06,"Rego Park","Queens","11374","11374","All ages",41393.74,2728,35532,38260,6.59,85.84,92.43
+2022-03-06,"Forest Hills","Queens","11375","11375","All ages",71266.52,4055,55284,59339,5.69,77.57,83.26
+2022-03-06,"Woodside","Queens","11377","11377","All ages",84048.11,7165,77672,84837,8.52,92.41,100.94
+2022-03-06,"Maspeth","Queens","11378","11378","All ages",36145.45,2541,28561,31102,7.03,79.02,86.05
+2022-03-06,"Middle Village","Queens","11379","11379","All ages",36636.49,1958,27339,29297,5.34,74.62,79.97
+2022-03-06,"Glendale/Ridgewood","Queens","11385","11385","All ages",103615.19,8222,74954,83176,7.94,72.34,80.27
+2022-03-06,"Cambria Heights","Queens","11411","11411","All ages",21378.1,1370,14384,15754,6.41,67.28,73.69
+2022-03-06,"St. Albans","Queens","11412","11412","All ages",38097.58,2850,26495,29345,7.48,69.55,77.03
+2022-03-06,"Laurelton/Rosedale","Queens","11413","11413","All ages",43206.88,2863,28219,31082,6.63,65.31,71.94
+2022-03-06,"Hamilton Beach/Howard Beach/Lindenwood","Queens","11414","11414","All ages",28358.4,1387,19034,20421,4.89,67.12,72.01
+2022-03-06,"Kew Gardens","Queens","11415","11415","All ages",18873.03,1217,14652,15869,6.45,77.63,84.08
+2022-03-06,"Ozone Park","Queens","11416","11416","All ages",26389.62,2061,22207,24268,7.81,84.15,91.96
+2022-03-06,"Ozone Park","Queens","11417","11417","All ages",31041.34,2177,25738,27915,7.01,82.92,89.93
+2022-03-06,"Richmond Hill","Queens","11418","11418","All ages",37585.6,3141,30387,33528,8.36,80.85,89.2
+2022-03-06,"Richmond Hill/South Ozone Park","Queens","11419","11419","All ages",48504.92,3688,41282,44970,7.6,85.11,92.71
+2022-03-06,"South Ozone Park","Queens","11420","11420","All ages",47835.06,3142,38683,41825,6.57,80.87,87.44
+2022-03-06,"Woodhaven","Queens","11421","11421","All ages",40049.5,3297,34126,37423,8.23,85.21,93.44
+2022-03-06,"Rosedale","Queens","11422","11422","All ages",32389.06,2333,21741,24074,7.2,67.12,74.33
+2022-03-06,"Hollis/Holliswood","Queens","11423","11423","All ages",31138.4,2204,25133,27337,7.08,80.71,87.79
+2022-03-06,"Bellerose","Queens","11426","11426","All ages",20163.58,1266,15620,16886,6.28,77.47,83.75
+2022-03-06,"Bellerose/Hollis Hills/Holliswood","Queens","11427","11427","All ages",23572.82,1681,21082,22763,7.13,89.43,96.56
+2022-03-06,"Queens Village","Queens","11428","11428","All ages",18580.92,1443,16348,17791,7.77,87.98,95.75
+2022-03-06,"Queens Village","Queens","11429","11429","All ages",32168.3,2040,21538,23578,6.34,66.95,73.3
+2022-03-06,"Hillcrest/Jamaica Estates/Jamaica Hills","Queens","11432","11432","All ages",60754.71,5431,55112,60543,8.94,90.71,99.65
+2022-03-06,"Jamaica","Queens","11433","11433","All ages",36521.92,3005,27075,30080,8.23,74.13,82.36
+2022-03-06,"Airport/South Jamaica/Springfield Gardens/St. Albans","Queens","11434","11434","All ages",66763.37,5346,45607,50953,8.01,68.31,76.32
+2022-03-06,"Briarwood/Jamaica","Queens","11435","11435","All ages",58415.04,4373,45369,49742,7.49,77.67,85.15
+2022-03-06,"South Jamaica/South Ozone Park","Queens","11436","11436","All ages",20042.54,1623,15236,16859,8.1,76.02,84.12
+2022-03-06,"Edgemere/Far Rockaway","Queens","11691","11691","All ages",66856.31,5185,36618,41803,7.76,54.77,62.53
+2022-03-06,"Arverne/Edgemere","Queens","11692","11692","All ages",21029.13,1635,13100,14735,7.77,62.29,70.07
+2022-03-06,"Arverne/Broad Channel","Queens","11693","11693","All ages",12672.14,753,8077,8830,5.94,63.74,69.68
+2022-03-06,"Belle Harbor-Neponsit/Rockaway Park","Queens","11694","11694","All ages",20779.4,1025,13710,14735,4.93,65.98,70.91
+2022-03-06,"Breezy Point","Queens","11697","11697","All ages",3392.62,207,3389,3596,6.1,99.89,105.99
