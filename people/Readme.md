@@ -1,5 +1,5 @@
 #  people/
-This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations administered in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) or the New Jersey Immunization Information System (NJIIS). 
+This folder contains information on the number of NYC residents vaccinated for COVID-19 in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, the [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/) or the New Jersey Immunization Information System (NJIIS). 
 
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
@@ -7,6 +7,7 @@ Data on people vaccinated is broken down into the following categories:
 * Partially Vaccinated: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna). 
 * Fully Vaccinated: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
 * At least one dose:  The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
+* Additional dose: The number of people who have received at least one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Further, second boosters are not yet included in the data.
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
@@ -44,9 +45,22 @@ Indicators include:
 |PERC_1PLUS |Estimated percentage of the NYC population with at least one dose of COVID-19 vaccine |Cumulative |
 |PERC_NOVAX |Estimated percentage of the NYC population who have not been vaccinated for COVID-19 |Cumulative |
 
+### coverage-summary-donut3.csv
+
+This file contains information on the estimated percentage of NYC residents who are fully vaccinated and received an additional dose (i.e. booster or third dose). Percentages are based on estimates of the total NYC population, population aged 5 to 17, population aged 18 years and older, and population aged 65 and older.
+
+Indicators include: 
+
+|Variable |Definition |Timeframe |
+|---------|-----------|----------|
+|AGE_GROUP |Age in years (All ages; ages 5 to 17; 18 years and older; 65 years and older) | |
+|PERC_ADDITIONAL |Estimated percentage of the NYC population fully vaccinated with an additional dose |Cumulative |
+|PERC_DIFF |  Percent of NYC population without an additional dose|Cumulative |
+
+
 ### coverage-summary-allages.csv
 
-This file contains information on the number and estimated percentage of NYC residents who are fully vaccinated and residents who received at least one dose of a COVID-19 vaccine by borough. 
+This file contains information on the number and estimated percentage of NYC residents vaccinated (at least 1 dose, fully vaccinated, additional dose), by borough. 
 
 Indicators include:
 
@@ -56,8 +70,10 @@ Indicators include:
 |POP_DENOMINATOR |Population denominators derived from intercensal estimates as of 2019. Please see the technical notes for a description. | |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by borough |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who received at least one dose of COVID-19 vaccine by borough |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by borough |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by borough |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who received at least 1 dose by borough |Cumulative |
+|PERC_ADDITIONAL |Estimated percentage of the population fully vaccinated with an additional dose by borough |Cumulative |
 
 ### coverage-summary-children.csv
 
@@ -93,9 +109,12 @@ Indicators include:
 |COUNT_PARTIALLY_CUMULATIVE |Number of people partially vaccinated by MODZCTA |Cumulative |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by MODZCTA |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID_19 vaccine by MODZCTA |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by MODZCTA |Cumulative |
 |PERC_PARTIALLY |Estimated percentage of the total population partially vaccinated by MODZCTA |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by MODZCTA |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by MODZCTA |Cumulative |
+|PERC_ADDIITONAL |Estimated percentage of the population fully vaccinated with an additinonal dose by MODZCTA |Cumulative |
+
 
 Neighborhood names represent the [Neighborhood Organizing Census Committee](https://www1.nyc.gov/site/census/index.page) boundaries, which were recently developed by the U.S. Census Bureau with input from community groups.
 
@@ -121,9 +140,11 @@ Indicators include:
 |COUNT_PARTIALLY_CUMULATIVE |Number of people partially vaccinated by indicated subgroup |Cumulative |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by indicated subgroup |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 |PERC_PARTIALLY |Estimated percentage of the population partially vaccinated by indicated subgroup |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by indicated subgroup |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|PERC_ADDITIONAL |Estimated percentage of the population fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 
 
 ### coverage-by-demo-allages.csv 
@@ -157,9 +178,13 @@ Indicators include:
 |COUNT_PARTIALLY_CUMULATIVE |Number of people partially vaccinated by indicated subgroup |Cumulative |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by indicated subgroup |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by indicated subgroup |Cumulative |
+
 |PERC_PARTIALLY |Estimated percentage of the population partially vaccinated by indicated subgroup |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by indicated subgroup |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|PERC_ADDITIONAL |Estimated percentage of the population fully vaccinated with an additional dose by indicated subgroup |Cumulative |
+
 
 The sum of counts in this file may not match total borough or citywide values because of records with missing demographic or geographic information. Additionally, not all demographic groups at the borough-level are shown. 
 
@@ -222,6 +247,12 @@ Indicators include:
 
 The sum of counts in this file may not match total borough or citywide values because of records with missing demographic or geographic information. Additionally, not all demographic groups at the borough-level are shown. 
 
+### coverage-by-boro-demo-additional.csv
+
+This file contains borough-level numbers on the count and percentage of NYC residents who are fully vaccinated with an additional dose (i.e. booster or third dose), by age and race/ethnicity. Information is the same as in coverage-by-boro-demo.csv, but has a wide format for display purposes on our COVID-19 vaccine data page. Due to small numbers, data on people who identify as American Indian and Alaska Native, two or more races, or other races/ethnicities are not provided. People with unknown race/ethnicity are not shown. Percentages are calculated against the total population for a specific geographic area or demographic category. 
+
+The sum of counts in this file may not match total borough or citywide values because of records with missing demographic or geographic information. Additionally, not all demographic groups at the borough-level are shown. 
+
 ### coverage-by-boro-age.csv
 
 This file contains borough-level information on the number and estimated percentage of NYC residents vaccinated for COVID-19 by age group. Percentages are calculated against the total population for a specific geographic area and demographic category. Among people under 18 years old, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. 
@@ -237,9 +268,11 @@ Indicators include:
 |COUNT_PARTIALLY_CUMULATIVE |Number of people partially vaccinated by indicated subgroup |Cumulative |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by indicated subgroup |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 |PERC_PARTIALLY |Estimated percentage of the population partially vaccinated by indicated subgroup |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by indicated subgroup |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|PERC_ADDITIONAL |Estimated percentage of the population fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 
 ### coverage-by-boro-sex.csv
 
@@ -256,9 +289,11 @@ Indicators include:
 |COUNT_PARTIALLY_CUMULATIVE |Number of people partially vaccinated by indicated subgroup |Cumulative |
 |COUNT_FULLY_CUMULATIVE |Number of people fully vaccinated by indicated subgroup |Cumulative |
 |COUNT_1PLUS_CUMULATIVE |Number of people who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 |PERC_PARTIALLY |Estimated percentage of the population partially vaccinated by indicated subgroup |Cumulative |
 |PERC_FULLY |Estimated percentage of the population fully vaccinated by indicated subgroup |Cumulative |
 |PERC_1PLUS |Estimated percentage of the population who have received at least one dose of COVID-19 vaccine by indicated subgroup |Cumulative |
+|COUNT_ADDITIONAL_CUMULATIVE |Number of people fully vaccinated with an additional dose by indicated subgroup |Cumulative |
 
 
 ### by-residency-demo.csv
@@ -327,12 +362,12 @@ This file contains information on the count and percent of NYC residents with at
 
 ### trends-byboro
 
-This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by borough. The borough and vaccination status is indicated following the underscore (_) in each column heading.Cells less than 10 are suppressed and will show '<10'. 
+This file contains information on the count and percent of NYC residents vaccinated over time by borough. The borough and vaccination status is indicated following the underscore (_) in each column heading.Cells less than 10 are suppressed and will show '<10'. 
 
 ### trends-byrace
 
-This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by race/ethnicity. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. Race/ethnicity categories shown here include Black, White, Hispanic/Latino, Asian or other Pacific Islander, and American Indian or Alaska Native. "Other" includes people of two or more races or other race/ethnicities. Note that other files in this repository disaggregate two or more races. "Unknown" includes people with incomplete race/ethnicity information. 
+This file contains information on the count and percent of NYC residents vaccinated over time by race/ethnicity. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. Race/ethnicity categories shown here include Black, White, Hispanic/Latino, Asian or other Pacific Islander, and American Indian or Alaska Native. "Other" includes people of two or more races or other race/ethnicities. Note that other files in this repository disaggregate two or more races. "Unknown" includes people with incomplete race/ethnicity information. 
 
 ### trends-bysex
 
-This file contains information on the count and percent of NYC residents with at least one dose or fully vaccinated over time by sex. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. "Other" includes people whose vaccination record indicates other or neither female or male. "Unknown" includes people with incomplete sex information or reporting prefer not to answer. 
+This file contains information on the count and percent of NYC residents vaccinated over time by sex. The race/ethnicity and vaccination status is indicated following the underscore (_) in each column heading. Cells less than 10 are suppressed and will show '<10'. "Other" includes people whose vaccination record indicates other or neither female or male. "Unknown" includes people with incomplete sex information or reporting prefer not to answer. 
