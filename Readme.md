@@ -68,8 +68,9 @@ Timeline of eligibility:
 |11/3/2021 | - People 5 years or older authorized for COVID-19 vaccine | 
 |11/29/2021 | - Boosters authorized for people 18 years or older  | 
 |12/9/2021 | - Boosters authorized for people 16 years or older  | 
-|1/4/2021 | - Additional primary series dose authorized for immunocompromised children 5-11  | 
-|1/5/2021 | - Boosters authorized for people 12 years or older  | 
+|1/4/2022 | - Additional primary series dose authorized for immunocompromised children 5-11  | 
+|1/5/2022 | - Boosters authorized for people 12 years or older  | 
+|3/29/2022 | - Second booster authorized for older and immunocompromised individuals  | 
 
 
 
@@ -89,14 +90,14 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
-	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses available for fully vaccinated people 12 and older, as well as third doses available for fully vaccinated people who have a weakened immune system.
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses and third doses for people with a weakened immune system. Second boosters for older and immunocompromised individuals are not yet included in the data.
 
 * **People Vaccinated**: The number of people who have been vaccinated for COVID-19 is based on data reported to the CIR. These data include NYC residents vaccinated at a NYC facility, as well as those who were vaccinated outside of NYC and reported to the CIR by an NYC provider, the NYS Immunization Information System (NYSIIS), or the New Jersey Immunization Information System (NJIIS). Information on the number of non-NYC residents vaccinated at NYC facilities can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
     * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
     * **Fully Vaccinated**: The number of people who received both doses of the Pfizer, Moderna or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson/Janssen vaccine primary vaccine series.
     * **At least one dose**: The number of people who have received either the first dose of the Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson/Janssen primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
-    *  **Additional dose**: The number of people who have received at least one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses available for fully vaccinated people 12 and older, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered.
+    *  **Additional dose**: The number of people who have received at least one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Further, second boosters are not yet included in the data. 
 
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
