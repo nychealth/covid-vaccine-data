@@ -7,7 +7,7 @@ Data on people vaccinated is broken down into the following categories:
 * Partially Vaccinated: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna). 
 * Fully Vaccinated: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
 * At least one dose:  The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
-* Additional dose: The number of people who have received at least one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Further, second boosters are not yet included in the data.
+* Additional dose: The number of people who have received one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Second booster doses are not yet included in the data.
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 
