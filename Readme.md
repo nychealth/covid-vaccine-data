@@ -5,7 +5,7 @@ You can view a visualization of these data on the NYC Health Department's [COVID
 
 The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
  
-Data on additional doses administered are now available, as well as trends on the number of NYC residents vaccinated by demographic group.
+Data on additional doses administered are now available, as well as trends on the number of NYC residents vaccinated by demographic group. Note data on second dose boosters are not yet included.
 
 ***
 
