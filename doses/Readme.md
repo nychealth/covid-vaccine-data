@@ -1,7 +1,7 @@
 # doses/
 This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
 
-Note: Second booster doses are not included at this time. 
+Note: Second dose boosters are not yet included in the data. 
 
 ## Definitions
 
@@ -11,7 +11,7 @@ Note: Second booster doses are not included at this time.
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
-	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including first booster and additional doses for people who are immunocompromised. Second dose boosters are not yet included in the data. 
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses and additional doses for people who are immunocompromised. Second booster doses are not yet included in the data. 
 
 
 ## Files
@@ -90,4 +90,3 @@ This file contains information on the number and percentage of COVID-19 doses ad
 |ADMIN_ALLDOSES_CUMULATIVE_18plus |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence |Cumulative |
 |ADMIN_ALLDOSES_CUMULATIVE_Allages |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose;  Additional dose) by place of residence. This is the same as ADMIN_ALLDOSES_CUMULATIVE in the doses-by-residency.csv file |Cumulative |
 |PERC_ADMIN_ALLDOSES_Allages |Percent of all doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence. This is the same as PERC_ADMIN_ALLDOSES in the doses-by-residency.csv file |Cumulative |
-
