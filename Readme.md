@@ -5,7 +5,7 @@ You can view a visualization of these data on the NYC Health Department's [COVID
 
 The CIR keeps immunization records for all city residents — children and adults — throughout their lives. COVID-19 vaccination data are reported by vaccinating facilities to the CIR and may be delayed. Data are updated daily with a 1-day lag, meaning that the most recent data in today's update are from the day before. Data are preliminary and subject to change.
  
-Data on additional doses administered are now available, as well as trends on the number of NYC residents vaccinated by demographic group. Note data on second dose boosters are not yet included.
+Data on second booster doses are not included at this time.
 
 ***
 
@@ -90,17 +90,16 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
-	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses and third doses for people with a weakened immune system. Second boosters for older and immunocompromised individuals are not yet included in the data.
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster and additional doses for people with a weakened immune system. Second booster doses are not included at this time.
 
-* **People Vaccinated**: The number of people who have been vaccinated for COVID-19 is based on data reported to the CIR. These data include NYC residents vaccinated at a NYC facility, as well as those who were vaccinated outside of NYC and reported to the CIR by an NYC provider, the NYS Immunization Information System (NYSIIS), or the New Jersey Immunization Information System (NJIIS). Information on the number of non-NYC residents vaccinated at NYC facilities can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
+* **People Vaccinated**: The number of NYC residents vaccinated at an NYC facility, as well as city residents who were vaccinated outside of NYC and reported to us by a provider in the city, the NYS Immunization Information System, or the New Jersey Immunization Information System. Information on the number of non-residents vaccinated in NYC can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
-    * **Partially Vaccinated**: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna).
-    * **Fully Vaccinated**: The number of people who received both doses of the Pfizer, Moderna or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson/Janssen vaccine primary vaccine series.
-    * **At least one dose**: The number of people who have received either the first dose of the Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson/Janssen primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
-    *  **Additional dose**: The number of people who have received at least one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Further, second boosters are not yet included in the data. 
+    * **Partially Vaccinated**: The number of people who have received the first dose of a two-dose primary vaccine series (i.e. Pfizer-BioNtech or Moderna).
+    * **Fully Vaccinated**: People who have received both doses of the Pfizer, Moderna or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson/Janssen vaccine primary vaccine series.
+    * **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson/Janssen primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
+    *  **Additional dose**: People who have received one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as additional doses for fully vaccinated people who have a weakened immune system. The timeframe between primary series completion and booster/additional dose is not considered. Second booster doses are not included at this time.
 
-
-The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
+The number of people who received at least one dose includes people who are both partially and fully vaccinated. 
 
 **Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. The Health Department produced these population estimates using data from the U.S. Census Bureau and incorporating additional data from the NYC Department of City Planning and the Department of Buildings on new housing construction

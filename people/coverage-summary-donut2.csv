@@ -1,6 +1,14 @@
 "AGE_GROUP","PERC_1PLUS","PERC_NOVAX"
+<<<<<<< HEAD
 "Children (5-17)",66.85,33.15
 "Children (13-17)",89.5,10.5
 "Adults (18+)",97.23,2.77
 "65 and Older",88.79,11.21
 "All ages",86.81,13.19
+=======
+"Children (5-17)",66.81,33.19
+"Children (13-17)",89.47,10.53
+"Adults (18+)",97.21,2.79
+"65 and Older",88.77,11.23
+"All ages",86.79,13.21
+>>>>>>> 9f8c1833924227970377f8c55bf48e6fa8427c2e

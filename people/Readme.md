@@ -3,11 +3,11 @@ This folder contains information on the number of NYC residents vaccinated for C
 
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
-Data on people vaccinated is broken down into the following categories:
-* Partially Vaccinated: The number of people who have received only the first dose of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna). 
-* Fully Vaccinated: The number of people who have received both doses of a two-dose vaccine series (i.e. Pfizer-BioNtech or Moderna), or one dose of a single-dose vaccine (i.e. Johnson & Johnson/Janssen).
-* At least one dose:  The number of people who have received at least one dose of a two-dose vaccine (i.e. Pfizer-BioNtech or Moderna) or a single-dose vaccine (i.e. Johnson & Johnson/Janssen). 
-* Additional dose: The number of people who have received one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as third doses available for fully vaccinated people who have a weakened immune system. The timeframe between primary series and additional/booster dose is not considered. Second booster doses are not yet included in the data.
+ Vaccination status is classified into the following categories: 
+* **Partially Vaccinated**: People who have received the first dose of a two-dose primary vaccine series (i.e. Pfizer-BioNtech or Moderna).
+* **Fully Vaccinated**: People who have received both doses of the Pfizer, Moderna or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson/Janssen vaccine primary vaccine series.
+* **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson/Janssen primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
+* **Additional dose**: People who have received one additional dose of any FDA-approved COVID-19 vaccine after being fully vaccinated. This includes booster doses, as well as additional doses for fully vaccinated people who have a weakened immune system. The timeframe between primary series completion and booster/additional dose is not considered. Second booster doses are not included at this time.
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
 

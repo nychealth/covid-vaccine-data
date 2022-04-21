@@ -1,6 +1,14 @@
 "AGE_GROUP","PERC_ADDITIONAL","DIFF"
+<<<<<<< HEAD
 "Children (5-17)",9.91,90.09
 "Children (13-17)",22.98,77.02
 "Adults (18+)",45.07,54.93
 "65 and Older",57.05,42.95
 "All ages",37.26,62.74
+=======
+"Children (5-17)",9.86,90.14
+"Children (13-17)",22.89,77.11
+"Adults (18+)",45.02,54.98
+"65 and Older",56.99,43.01
+"All ages",37.21,62.79
+>>>>>>> 9f8c1833924227970377f8c55bf48e6fa8427c2e

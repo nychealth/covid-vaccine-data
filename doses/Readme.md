@@ -1,7 +1,7 @@
 # doses/
 This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
 
-Note: Second dose boosters are not yet included in the data. 
+Note: Second booster doses are not included at this time. 
 
 ## Definitions
 
@@ -11,7 +11,7 @@ Note: Second dose boosters are not yet included in the data.
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
-	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses and additional doses for people who are immunocompromised. Second booster doses are not yet included in the data. 
+	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including first booster and additional doses for people who are immunocompromised. Second dose boosters are not yet included in the data. 
 
 
 ## Files
