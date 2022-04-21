@@ -1,5 +1,4 @@
 "DATE","RACE_ETHNICITY","AGE_GROUP","NON-NYC","NYC"
-<<<<<<< HEAD
 "2022-04-20","Asian","All ages","151548","1286431"
 "2022-04-20","Black","All ages","109223","1188256"
 "2022-04-20","Hispanic/Latino","All ages","169335","1990648"
@@ -9,14 +8,3 @@
 "2022-04-20","Other","All ages","76273","458381"
 "2022-04-20","Unknown","All ages","77405","464356"
 "2022-04-20","White","All ages","547232","1806710"
-=======
-"2022-04-19","Asian","All ages","151462","1286126"
-"2022-04-19","Black","All ages","109162","1187810"
-"2022-04-19","Hispanic/Latino","All ages","169239","1989993"
-"2022-04-19","Multiracial","All ages","1154","8047"
-"2022-04-19","Native American/Alaska Native","All ages","3388","23080"
-"2022-04-19","Native Hawaiian/Pacific Islander","All ages","1764","11738"
-"2022-04-19","Other","All ages","76324","458707"
-"2022-04-19","Unknown","All ages","77398","464337"
-"2022-04-19","White","All ages","546966","1806279"
->>>>>>> 9f8c1833924227970377f8c55bf48e6fa8427c2e
