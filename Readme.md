@@ -71,6 +71,8 @@ Timeline of eligibility:
 |1/4/2022 | - Additional primary series dose authorized for immunocompromised children 5-11  | 
 |1/5/2022 | - Boosters authorized for people 12 years or older  | 
 |3/29/2022 | - Second booster authorized for older and immunocompromised individuals  | 
+|5/25/2022 | - Boosters authorized for people 5 years or older  | 
+
 
 
 
