@@ -101,8 +101,6 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
     * **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
     *  **Additional/booster doses**: People who have received additional doses of an FDA-approved vaccine after completing their primary series. This includes first and second booster shots, as well as additional doses for people who are immunocompromised.
 
-The number of people who received at least one dose includes people who are both partially and fully vaccinated. 
-
 **Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. The Health Department produced these population estimates using data from the U.S. Census Bureau and incorporating additional data from the NYC Department of City Planning and the Department of Buildings on new housing construction
 
@@ -158,4 +156,4 @@ This folder contains data on COVID-19 vaccines that were administered by vaccina
 
 ### people/ 
 
-This folder contains information on the number of people who are fully vaccinated, and people who received at least one dose of COVID-19 vaccine. These data include NYC residents who received immunizations in NYC, NYS, NJ or elsewhere and reported to the CIR by NYC providers, [New York State Immunization Information System (NYSIIS)](https://www.health.ny.gov/prevention/immunization/information_system/), or New Jersey Immunization Information System (NJIIS). Files that begin with ‘by-residency’ also include data on the number of non-NYC residents vaccinated at a NYC facility.
+This folder contains information on the number of people who received at least 1 dose, the primary vaccine series, and additional/booster doses. These data include the number of NYC residents vaccinated at an NYC facility, as well as city residents who were vaccinated outside of NYC and reported to us by: a provider in the city; the New York State Immunization Information System; the New Jersey Immunization Information System; or the Connecticut Immunization Registry and Tracking System. Files that begin with ‘by-residency’ also include data on the number of non-NYC residents vaccinated at a NYC facility.
