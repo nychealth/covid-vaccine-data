@@ -11,8 +11,8 @@ Note: Second dose boosters are not yet included in the data.
 	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson/Janssen)
-	* **Additional dose**: Doses administered after the primary COVID-19 vaccine series, including booster doses and additional doses for people who are immunocompromised. Second booster doses are not yet included in the data. 
-
+	*  **Additional/Booster 1**: First booster doses administered after the primary COVID-19 vaccine series. This includes first booster doses or the third dose  for people who are immunocompromised. This measure does not consider whether the vaccine recipient is immunocompromised or has an underlying medical condition.
+	*  **Additional/Booster 2**: Second booster doses administered after the primary COVID-19 vaccine series and one booster dose. They could be the second booster doses or the first booster doses for people who are immunocompromised. This measure does not consider whether the vaccine recipient is immunocompromised or has an underlying medical condition.
 
 ## Files
 
