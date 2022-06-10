@@ -30,7 +30,7 @@ Indicators include:
 |---------|-----------|----------|
 |AGE_GROUP |Age in years (All ages; ages 5 to 17; 18 years and older; 65 years and older) | |
 |PERC_PARTIALLY |Estimated percentage of the NYC population partially vaccinated by age group |Cumulative |
-|PERC_FULLY |Estimated percentage of the total NYC population who compelted the primary vaccine series by age group |Cumulative |
+|PERC_FULLY |Estimated percentage of the total NYC population who completed the primary series by age group |Cumulative |
 |PERC_NOVAX |Estimated percentage of the total NYC population who have not been vaccinated for COVID-19 |Cumulative |
 
 ### coverage-summary-donut2.csv
