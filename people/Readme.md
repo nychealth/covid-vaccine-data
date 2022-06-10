@@ -3,6 +3,8 @@ This folder contains information on the number of NYC residents vaccinated for C
 
 Files labeled ‘by-residency’ also have data on the number of eligible non-NYC residents vaccinated at facilities in NYC, such as individuals who work or study in the city.
 
+Data on second booster doses are included as of 6/10/2022.
+
  Vaccination status is classified into the following categories: 
 * **Partially Vaccinated**: People who have received the first dose of a two-dose primary vaccine series (i.e. Pfizer-BioNtech or Moderna).
 * **Fully Vaccinated**: People who have received the two-dose series of the Moderna or Pfizer vaccine, or the single-dose series of the Johnson & Johnson vaccine. This was previously referred to as "fully vaccinated."
