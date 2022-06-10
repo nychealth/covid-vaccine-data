@@ -1,7 +1,7 @@
 # doses/
 This folder contains data on COVID-19 vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
 
-Note: Second dose boosters are not yet included in the data. 
+Data on second booster doses are included as of 6/10/2022.
 
 ## Definitions
 
