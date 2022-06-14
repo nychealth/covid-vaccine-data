@@ -7,8 +7,8 @@ Data on second booster doses are included as of 6/10/2022.
 
  Vaccination status is classified into the following categories: 
 * **Partially Vaccinated**: People who have received the first dose of a two-dose primary vaccine series (i.e. Pfizer-BioNtech or Moderna).
-* **Fully Vaccinated**: People who have received the two-dose series of the Moderna or Pfizer vaccine, or the single-dose series of the Johnson & Johnson vaccine. This was previously referred to as "fully vaccinated."
-* **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson/Janssen primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
+* **Completed primary series**: People who have received the two-dose series of the Moderna or Pfizer vaccine, or the single-dose series of the Johnson & Johnson vaccine. This was previously referred to as "fully vaccinated."
+* **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
 * **Additional/booster doses**: People who have received additional doses of an FDA-approved vaccine after completing their primary series. This includes first and second booster shots, as well as additional doses for people who are immunocompromised.
 
 The number of people who received at least one dose includes people who are both partially and fully vaccinated; percentages and counts should not be summed. 
