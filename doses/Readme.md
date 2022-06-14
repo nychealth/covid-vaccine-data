@@ -73,7 +73,7 @@ Indicators include:
 |ADMIN_DOSE1_CUMULATIVE |Cumulative number of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) by place of residence |Cumulative |
 |ADMIN_DOSE2_CUMULATIVE |Cumulative number of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) by place of residence |Cumulative |
 |ADMIN_SINGLE_CUMULATIVE |Cumulative number of single-dose COVID-19 vaccine administered by place of residence |Cumulative |
-|ADMIN_ADDITIONAL_CUMULATIVE |Cumulative number of additional COVID-19 vaccine doses administered by place of residence |Cumulative |
+|ADMIN_ADDITIONAL_CUMULATIVE |Cumulative number of additional/booster COVID-19 vaccine doses administered by place of residence |Cumulative |
 |ADMIN_ALLDOSES_CUMULATIVE |Cumulative number of all COVID-19 vaccine doses administered (Dose 1 of 2; Dose 2 of 2; Single dose; Additional dose) by place of residence |Cumulative |
 |PERC_ADMIN_DOSE1 |Percent of first doses administered of a two-dose COVID-19 vaccine series (Dose 1 of 2) by place of residence |Cumulative|
 |PERC_ADMIN_DOSE2 |Percent of second doses administered of a two-dose COVID-19 vaccine series (Dose 2 of 2) by place of residence |Cumulative|
