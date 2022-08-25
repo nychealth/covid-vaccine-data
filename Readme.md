@@ -47,7 +47,7 @@ Generally, numbers reported by the NYC Health Department and NYS Department of H
 
 ### Vaccine Eligibility:
 
-As of November 3 2021, all U.S. residents 5 years of age and older are eligible to be vaccinated in NYC. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccine eligibility. 
+As of November 3 2021, all U.S. residents 6 months of age and older are eligible to be vaccinated in NYC. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccine eligibility. 
 
 Vaccine eligibility has expanded in phases as outlined by CDC and NYS, starting in Phase 1a with health care personnel and long-term care facility residents. In Phase 1b, COVID-19 vaccine was offered to persons aged ≥75 years and non-health care frontline essential workers, and in Phase 1c, to persons aged 65–74 years, persons aged 16–64 years with high-risk medical conditions, and essential workers not included in Phase 1b. Both the characteristics of people vaccinated (e.g., age, occupation) and the number of vaccinations administered shift over time, reflecting the populations that were eligible to be vaccinated and the supply of vaccine available.
 
@@ -72,6 +72,7 @@ Timeline of eligibility:
 |1/5/2022 | - Boosters authorized for people 12 years or older  | 
 |3/29/2022 | - Second booster authorized for older and immunocompromised individuals  | 
 |5/25/2022 | - Boosters authorized for people 5 years or older  | 
+|6/20/2022 | - People 6 months or older authorized for COVID-19 vaccine | 
 
 
 
@@ -79,7 +80,7 @@ Timeline of eligibility:
 
 ### Vaccines Available:
 
-Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech, Moderna, and Johnson & Johnson. People who are 5 to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
+Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech, Moderna, and Johnson & Johnson. People who are 6 month to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
 
 
 ## Definitions
@@ -130,7 +131,7 @@ Individuals whose addresses are not valid and who could not be mapped to a MODZC
 
 ### Age Groups:
 
-Data are reported for the following age groups per U.S. Census age categories: 5-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 5 to 17 years are currently eligible for COVID-19 vaccination. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
+Data are reported for the following age groups per U.S. Census age categories: 0-4, 5-12, 13-17, 18-24, 25-34, 35-44, 45-54, 55-64, 65-74, 75-84, and 85+ years. Among people under 18, only those aged 6 months to 17 years are currently eligible for COVID-19 vaccination. See [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page?utm_source=Google_Search&utm_medium=English&utm_campaign=COVID19Vaccine) for more information on vaccine eligibility. 
 
 
 ### Race/Ethnicity: 
