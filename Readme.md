@@ -66,13 +66,17 @@ Timeline of eligibility:
 |5/12/2021 | - People 12 years or older | 
 |8/13/2021 | - Additional primary series dose authorized for immunocompromised people 12 years or older | 
 |11/3/2021 | - People 5 years or older authorized for COVID-19 vaccine | 
-|11/29/2021 | - Boosters authorized for people 18 years or older  | 
-|12/9/2021 | - Boosters authorized for people 16 years or older  | 
+|11/29/2021 | - Monovalent boosters authorized for people 18 years or older  | 
+|12/9/2021 | - Monovalent boosters authorized for people 16 years or older  | 
 |1/4/2022 | - Additional primary series dose authorized for immunocompromised children 5-11  | 
-|1/5/2022 | - Boosters authorized for people 12 years or older  | 
-|3/29/2022 | - Second booster authorized for older and immunocompromised individuals  | 
-|5/25/2022 | - Boosters authorized for people 5 years or older  | 
-|6/20/2022 | - People 6 months or older authorized for COVID-19 vaccine | 
+|1/5/2022 | - Monovalent boosters authorized for people 12 years or older  | 
+|3/29/2022 | - Second monovalent booster authorized for older and immunocompromised individuals  | 
+|5/25/2022 | - Monovalent boosters authorized for people 5 years or older  | 
+|6/20/2022 | - People 6 months or older authorized for COVID-19 vaccine |
+|8/31/2022 | - People 18 years or older authorized for Moderna bivalent dose; People 12 years or older authorized for Pfizer-BioNTech bivalent dose | 
+|10/14/2022 | - People 6 years or older authorized for Moderna bivalent dose; People 5 years or odler authorized for Pfizer-BioNTech bivalent dose |
+|12/8/2022 | - People 6 months or older authorized for bivalent dose |
+
 
 
 
@@ -80,7 +84,7 @@ Timeline of eligibility:
 
 ### Vaccines Available:
 
-Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech, Moderna, and Johnson & Johnson. People who are 6 month to 17 years old are only eligible for the Pfizer vaccine. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
+Three COVID-19 vaccines have received emergency use authorizations for use in the U.S. by the [Food and Drug Administration (FDA)](https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-vaccines): Pfizer-BioNTech, Moderna, and Johnson & Johnson. These vaccines have been shown to be very safe and effective in protecting people from severe COVID-19 illness, hospitalization and death. Read more [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccines.page) about COVID-19 vaccines. 
 
 
 ## Definitions
@@ -89,18 +93,19 @@ Three COVID-19 vaccines have received emergency use authorizations for use in th
 
 * **Doses Administered**: The number of COVID-19 vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.
 
-* **Doses Number**: Dose information is reported by date of vaccination. Data is broken-out by the two-dose Pfizer or Moderna primary vaccine series, the one dose Johnson & Johnson primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson.
-	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
-	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech and Moderna)
+* **Doses Number**: Dose information is reported by date of vaccination. Data is broken-out by the two-dose Pfizer, Moderna, or Novavax primary vaccine series, the one dose Johnson & Johnson primary vaccine series and additional doses of Pfizer, Moderna or Johnson & Johnson.
+	* **Dose 1 of 2**: First dose administered of a two-dose primary vaccine series (Pfizer-BioNTech, Moderna, and Novavax)
+	* **Dose 2 of 2**: Second dose administered of a two-dose primary vaccine series (Pfizer-BioNTech, Moderna, and Novavax)
 	* **Single dose**: The dose administered of a single-dose primary vaccine series (Johnson & Johnson)
-	* **Additional/booster doses**: Doses administered after the primary COVID-19 vaccine series, including booster and additional doses for people with a weakened immune system. 
-
+	* **Additional/booster doses**: Doses administered after the primary COVID-19 vaccine series, including monovalent booster and monovalent additional doses for people with a weakened immune system. 
+    * **Bivalent dose**: Doses of Bivalent vaccines administered after the primary COVID-19 vaccine series, including both Moderna and Pfizer bivalent vaccines.
 * **People Vaccinated**: The number of NYC residents vaccinated at an NYC facility, as well as city residents who were vaccinated outside of NYC and reported to us by: a provider in the city; the New York State Immunization Information System; the New Jersey Immunization Information System; or the Connecticut Immunization Registry and Tracking System. Information on the number of non-residents vaccinated in NYC can also be found in select datasets of this repository. Patient records are deduplicated since information on the same patient may be submitted by multiple providers. Vaccination status is classified into the following categories: 
 
     * **Partially Vaccinated**: The number of people who have received the first dose of a two-dose primary vaccine series (i.e. Pfizer-BioNtech or Moderna).
-    * **Completed the primary series**: People who have received both doses of the Pfizer, Moderna or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson vaccine primary vaccine series.
+    * **Completed the primary series**: People who have received both doses of the Pfizer, Moderna, Novavax or AstraZeneca primary vaccine series or the one dose of the Johnson & Johnson vaccine primary vaccine series.
     * **At least one dose**: People who have received either the first dose of the two-dose Pfizer or Moderna primary vaccine series or the one dose of the Johnson & Johnson primary vaccine series. New Yorkers who received the AstraZeneca vaccine are only counted if they received both doses of the two-dose vaccine. 
-    *  **Additional/booster doses**: People who have received additional doses of an FDA-approved vaccine after completing their primary series. This includes first and second booster shots, as well as additional doses for people who are immunocompromised.
+    *  **Additional/booster doses**: People who have received additional doses of an FDA-approved monovalent vaccine after completing their primary series. This includes first and second booster shots, as well as additional doses for people who are immunocompromised.
+    * **Bivalent dose**: People who have received a bivalent dose of vaccine. This may include people who completed the primary series outside of NYC and received a bivalent dose in NYC.
 
 **Percent of NYC Residents Vaccinated, by Demographic Group and Geography**: 
 The percent of NYC residents vaccinated is calculated against the total population estimate for a specific geographic area or demographic category. Population counts were calculated using intercensal estimates updated on October 9, 2020 to reflect annual population estimates for all New Yorkers as of July 1, 2019. The Health Department produced these population estimates using data from the U.S. Census Bureau and incorporating additional data from the NYC Department of City Planning and the Department of Buildings on new housing construction
