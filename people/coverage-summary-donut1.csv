@@ -1,7 +1,7 @@
-"AGE_GROUP","PERC_PARTIALLY","PERC_FULLY","PERC_NOVAX"
-"Children (0-17)",7.22,45.55,47.23
-"Children (5-17)",8.43,62.81,28.76
-"Children (13-17)",10.1,83.06,6.84
-"Adults (18+)",9.03,89.97,
-"65 and Older",5.87,84.75,9.38
-"All ages",9.49,80.89,9.62
+AGE_GROUP,PERC_PARTIALLY,PERC_FULLY,PERC_NOVAX
+Children (0-17),7.21,45.6,47.19
+Children (5-17),8.43,62.84,28.73
+Children (13-17),10.1,83.08,6.82
+Adults (18+),9.01,89.99,
+65 and Older,5.87,84.76,9.37
+All ages,9.49,80.91,9.6
